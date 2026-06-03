@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure OpenAI on Haulul Azkiya — Portfolio</title>
+    <link>https://haulul.dev/tags/azure-openai/</link>
+    <description>Recent content in Azure OpenAI on Haulul Azkiya — Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://haulul.dev/tags/azure-openai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nutrizee</title>
+      <link>https://haulul.dev/projects/nutrizee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/nutrizee/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

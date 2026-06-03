@@ -1,0 +1,101 @@
+summary: >
+  Software Engineer with experience building web and mobile applications
+  across AI, healthtech, and edtech domains. I care about shipping clean and impactful software. Deeply interested
+  in Cloud, AI, and Web3 to exploring how to build an enterprise grade products.
+
+skills:
+  - name: JavaScript / TypeScript
+    icon: "fa-brands fa-js"
+  - name: React
+    icon: "fa-brands fa-react"
+  - name: Angular
+    icon: "fa-brands fa-angular"
+  - name: Flutter
+    icon: "fa-solid fa-mobile-screen"
+  - name: Node.js
+    icon: "fa-brands fa-node-js"
+  - name: PostgreSQL
+    icon: "fa-solid fa-database"
+  - name: Docker
+    icon: "fa-brands fa-docker"
+  - name: Google Cloud
+    icon: "fa-brands fa-google"
+  - name: Azure
+    icon: "fa-brands fa-microsoft"
+  - name: Git
+    icon: "fa-brands fa-git-alt"
+  - name: Figma
+    icon: "fa-brands fa-figma"
+  - name: Laravel
+    icon: "fa-brands fa-laravel"
+
+certifications:
+  - name: "Build Real World AI Applications with Gemini and Imagen"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-gemini-imagen.png"
+
+  - name: "Analyze Speech and Language with Google APIs"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-speech-language.png"
+
+  - name: "Streaming Analytics into BigQuery"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-bigquery-streaming.png"
+
+  - name: "Create and Manage Cloud Spanner Instances"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-cloud-spanner.png"
+
+  - name: "Create and Manage Bigtable Instances"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-bigtable.png"
+
+  - name: "Build Infrastructure with Terraform on Google Cloud"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-terraform.png"
+
+  - name: "Manage Kubernetes in Google Cloud"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-k8s-manage.png"
+
+  - name: "Deploy Kubernetes Applications on Google Cloud"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-k8s-deploy.png"
+
+  - name: "Optimize Costs for Google Kubernetes Engine"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-k8s-costs.png"
+
+  - name: "Monitor and Log with Google Cloud Observability"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-observability.png"
+
+  - name: "Build a Secure Google Cloud Network"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-secure-network.png"
+
+  - name: "Configure Service Accounts and IAM Roles for Google Cloud"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-iam-roles.png"
+
+  - name: "Build Serverless Applications with Cloud Run Functions"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-cloud-run.png"
+
+  - name: "Set Up an App Dev Environment on Google Cloud"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-app-dev-env.png"

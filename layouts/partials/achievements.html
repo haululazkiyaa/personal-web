@@ -1,0 +1,58 @@
+{{ $achievements := where .Site.RegularPages "Section" "achievements" }}
+{{ $asc    := sort $achievements ".Params.sortDate" }}
+{{ $sorted := slice }}
+{{ range $achievements }}
+  {{ if not (in $sorted .) }}
+    {{ $sorted = $sorted | append . }}
+  {{ end }}
+{{ end }}
+{{ $compLen := len $asc }}
+{{ $sorted  = slice }}
+{{ range $i, $_ := $asc }}
+  {{ $sorted = $sorted | append (index $asc (sub (sub $compLen 1) $i)) }}
+{{ end }}
+
+<section id="achievements" class="achievements-section">
+  <div class="container">
+    <h2 class="section-title">Achievements</h2>
+    <div class="ach-timeline">
+      {{ range $i, $a := $sorted }}
+      <article class="ach-item{{ if ge $i 3 }} ach-item--hidden{{ end }}">
+        <div class="ach-date-col">
+          <span class="ach-date">{{ .Params.displayDate }}</span>
+        </div>
+        <div class="ach-mid">
+          <div class="ach-dot"></div>
+        </div>
+        <div class="ach-body">
+          <div class="ach-header">
+            <span class="ach-placement">{{ .Params.placement }}</span>
+            {{ with .Params.field }}<span class="ach-field">{{ . }}</span>{{ end }}
+          </div>
+          <p class="ach-competition">{{ .Params.competition }}</p>
+          <div class="ach-desc-wrap">
+            <p class="ach-desc ach-desc--clamped">{{ .Params.description }}</p>
+            <button type="button" class="ach-see-more" aria-expanded="false">See more</button>
+          </div>
+          {{ with .Params.gallery }}
+          {{ if gt (len .) 0 }}
+          <div class="ach-gallery">
+            {{ range . }}
+            <button type="button" class="ach-gallery-item" data-src="{{ . }}" aria-label="View photo">
+              <img src="{{ . }}" alt="Achievement photo" loading="lazy" />
+            </button>
+            {{ end }}
+          </div>
+          {{ end }}
+          {{ end }}
+        </div>
+      </article>
+      {{ end }}
+    </div>
+    {{ if gt (len $sorted) 3 }}
+    <div class="show-more-wrap">
+      <button type="button" class="btn btn-outline" id="achShowMore" aria-expanded="false">See more</button>
+    </div>
+    {{ end }}
+  </div>
+</section>

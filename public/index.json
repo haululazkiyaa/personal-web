@@ -1,0 +1,33 @@
+[{
+  "title": "Building Resilient Microservices with Go and gRPC",
+  "url": "https://haulul.dev/blog/building-resilient-microservices/",
+  "date": "Mar 15, 2024",
+  "category": "Backend",
+  "tags": null,
+  "summary": "A practical guide to designing fault-tolerant microservices using Go, gRPC, and circuit breaker patterns — lessons learned from production.",
+  "thumbnail": "/images/blog/microservices.jpg"
+},{
+  "title": "PostgreSQL Query Optimization: From 10s to 50ms",
+  "url": "https://haulul.dev/blog/postgres-query-optimization/",
+  "date": "Jan 22, 2024",
+  "category": "Database",
+  "tags": null,
+  "summary": "How I tracked down and fixed a slow query that was blocking our main checkout flow — covering EXPLAIN ANALYZE, index strategies, and partial indexes.",
+  "thumbnail": "/images/blog/postgres.jpg"
+},{
+  "title": "Terraform State Management in a Team Environment",
+  "url": "https://haulul.dev/blog/terraform-state-management/",
+  "date": "Nov 10, 2023",
+  "category": "DevOps",
+  "tags": null,
+  "summary": "Best practices for managing Terraform state in teams: remote backends, state locking, workspace strategies, and how to avoid the state corruption trap.",
+  "thumbnail": "/images/blog/terraform.jpg"
+},{
+  "title": "Kafka Consumer Patterns You Should Know",
+  "url": "https://haulul.dev/blog/kafka-consumer-patterns/",
+  "date": "Aug 5, 2023",
+  "category": "Backend",
+  "tags": ["Kafka","Backend","Distributed Systems"],
+  "summary": "A deep dive into consumer group strategies, offset management, and handling rebalances gracefully — patterns that have saved us from data loss more than once.",
+  "thumbnail": "/images/blog/kafka.jpg"
+}]

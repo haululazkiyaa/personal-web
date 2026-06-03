@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Projects — Haulul Azkiya — Portfolio</title>
+  <meta name="description" content="Personal portfolio of Muhammad Haulul Azkiyaa — Software Engineer based in Bandung, Indonesia." />
+  <link rel="stylesheet" href="/css/main.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap" />
+  <script src="https://kit.fontawesome.com/d1186bca51.js" crossorigin="anonymous"></script>
+</head>
+<body class="section-projects">
+  <main>
+    
+
+
+
+
+
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+    
+  
+
+  
+
+
+<header class="page-topbar">
+  <div class="container">
+    <a href="/" class="page-back"><i class="fa-solid fa-arrow-left"></i></a>
+    <h1 class="page-topbar-title">Projects</h1>
+    <span class="page-topbar-spacer"></span>
+  </div>
+</header>
+
+<section class="page-section">
+  <div class="container">
+
+    
+    <div class="proj-toolbar">
+      <div class="proj-search-wrap">
+        <i class="fa-solid fa-magnifying-glass proj-search-icon"></i>
+        <input type="search" id="projSearch" class="proj-search" placeholder="Search projects…" autocomplete="off" />
+      </div>
+      <div class="proj-toolbar-right">
+        <button type="button" id="projFilterBtn" class="proj-filter-btn">
+          <i class="fa-solid fa-sliders"></i> Filter
+        </button>
+        <button type="button" id="projFilterClear" class="proj-filter-clear" style="display:none">
+          <i class="fa-solid fa-xmark"></i> Clear
+        </button>
+      </div>
+    </div>
+
+    
+    <div id="projFilterPanel" class="proj-filter-panel" aria-hidden="true">
+      <div class="proj-filter-group">
+        <p class="proj-filter-label">Year</p>
+        <div class="proj-filter-checks">
+          
+          <label class="proj-check-label">
+            <input type="checkbox" class="flt-year" value="2025" />
+            <span>2025</span>
+          </label>
+          
+          <label class="proj-check-label">
+            <input type="checkbox" class="flt-year" value="2024" />
+            <span>2024</span>
+          </label>
+          
+          <label class="proj-check-label">
+            <input type="checkbox" class="flt-year" value="2023" />
+            <span>2023</span>
+          </label>
+          
+          <label class="proj-check-label">
+            <input type="checkbox" class="flt-year" value="2022" />
+            <span>2022</span>
+          </label>
+          
+        </div>
+      </div>
+      <div class="proj-filter-group">
+        <p class="proj-filter-label">Award</p>
+        <label class="proj-check-label">
+          <input type="checkbox" id="fltAward" />
+          <span>Has award / placement</span>
+        </label>
+      </div>
+    </div>
+
+    
+    <div id="projEmpty" class="proj-empty" style="display:none">
+      <i class="fa-regular fa-folder-open"></i>
+      <p>No projects found</p>
+      <span>Try adjusting your search or filters</span>
+    </div>
+    <div class="projects-grid" id="projectsGrid">
+      
+      <article class="project-card"
+        data-year="2025"
+        data-award="true"
+        data-search="movequest gamified app designed to reduce digital sedentary behavior and encourage physical activity through quest-based challenges and rewards. ui/ux figma mobile gamification "
+        style="">
+        
+        <a class="project-preview" href="https://www.youtube.com/watch?v=cdPJ3CZSMx4" target="_blank" rel="noopener">
+          <img src="https://img.youtube.com/vi/cdPJ3CZSMx4/hqdefault.jpg" alt="MoveQuest" loading="lazy" />
+          <span class="project-play"><i class="fa-solid fa-play"></i></span>
+        </a>
+        
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">MoveQuest</h3>
+            <span class="project-award" data-tooltip="2nd Place – UX Design Competition Sitefest 4.0"><i class="fa-solid fa-trophy"></i></span>
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">Gamified app designed to reduce digital sedentary behavior and encourage physical activity through quest-based challenges and rewards.</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              <li>UI/UX</li><li>Figma</li><li>Mobile</li><li>Gamification</li>
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            
+            <a href="https://www.youtube.com/watch?v=cdPJ3CZSMx4" target="_blank" rel="noopener" class="proj-link-visit">Visit</a>
+          </div>
+        </div>
+      </article>
+      
+      <article class="project-card"
+        data-year="2025"
+        data-award="true"
+        data-search="nutrizee ai-powered cross-platform app using flutter and azure openai to scan food and track family nutrition in indonesia. integrated computer vision, user dashboard, and azure api infrastructure. flutter azure openai computer vision mobile azure "
+        style="">
+        
+        <a class="project-preview" href="https://www.youtube.com/watch?v=46ZephYmZtg" target="_blank" rel="noopener">
+          <img src="https://img.youtube.com/vi/46ZephYmZtg/hqdefault.jpg" alt="Nutrizee" loading="lazy" />
+          <span class="project-play"><i class="fa-solid fa-play"></i></span>
+        </a>
+        
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">Nutrizee</h3>
+            <span class="project-award" data-tooltip="2nd Place – Microsoft elevAIte Hackathon 2025"><i class="fa-solid fa-trophy"></i></span>
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">AI-powered cross-platform app using Flutter and Azure OpenAI to scan food and track family nutrition in Indonesia. Integrated computer vision, user dashboard, and Azure API infrastructure.</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              <li>Flutter</li><li>Azure OpenAI</li><li>Computer Vision</li><li>Mobile</li><li>Azure</li>
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            
+            <a href="https://www.youtube.com/watch?v=46ZephYmZtg" target="_blank" rel="noopener" class="proj-link-visit">Visit</a>
+          </div>
+        </div>
+      </article>
+      
+      <article class="project-card"
+        data-year="2024"
+        data-award="true"
+        data-search="arunica academy school-targeted learning management system (lms) designed to streamline digital learning for students and teachers in indonesian schools. flutter lms mobile education "
+        style="">
+        
+        <a class="project-preview" href="https://www.youtube.com/watch?v=6_mhUBwh-f0" target="_blank" rel="noopener">
+          <img src="https://img.youtube.com/vi/6_mhUBwh-f0/hqdefault.jpg" alt="Arunica Academy" loading="lazy" />
+          <span class="project-play"><i class="fa-solid fa-play"></i></span>
+        </a>
+        
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">Arunica Academy</h3>
+            <span class="project-award" data-tooltip="Funding Recipient – PKM-KC 2024"><i class="fa-solid fa-trophy"></i></span>
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">School-targeted Learning Management System (LMS) designed to streamline digital learning for students and teachers in Indonesian schools.</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              <li>Flutter</li><li>LMS</li><li>Mobile</li><li>Education</li>
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            
+            <a href="https://www.youtube.com/watch?v=6_mhUBwh-f0" target="_blank" rel="noopener" class="proj-link-visit">Visit</a>
+          </div>
+        </div>
+      </article>
+      
+      <article class="project-card"
+        data-year="2024"
+        data-award="true"
+        data-search="besafety innovative brainwave-based public transportation safety monitoring system that detects driver drowsiness using eeg signals and triggers real-time alerts. flutter iot eeg mobile safety "
+        style="">
+        
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">BeSafety</h3>
+            <span class="project-award" data-tooltip="Runner-Up IEEE YESIST12 Innovation Challenge 2024 (Tunisia)"><i class="fa-solid fa-trophy"></i></span>
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">Innovative brainwave-based public transportation safety monitoring system that detects driver drowsiness using EEG signals and triggers real-time alerts.</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              <li>Flutter</li><li>IoT</li><li>EEG</li><li>Mobile</li><li>Safety</li>
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            
+            <a href="https://telkomuniversity.ac.id/tel-u-ciptakan-inovasi-besafety-untuk-mengurangi-kecelakaan-lalu-lintas/" target="_blank" rel="noopener" class="proj-link-visit">Visit</a>
+          </div>
+        </div>
+      </article>
+      
+      <article class="project-card"
+        data-year="2024"
+        data-award="false"
+        data-search="counter carbon concept application for carbon tracking that helps users monitor and reduce their personal carbon footprint through daily activity logging. mobile flutter ui/ux environment "
+        style="">
+        
+        <a class="project-preview" href="https://www.youtube.com/watch?v=J9l6opqUvvw" target="_blank" rel="noopener">
+          <img src="https://img.youtube.com/vi/J9l6opqUvvw/hqdefault.jpg" alt="Counter Carbon" loading="lazy" />
+          <span class="project-play"><i class="fa-solid fa-play"></i></span>
+        </a>
+        
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">Counter Carbon</h3>
+            
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">Concept application for carbon tracking that helps users monitor and reduce their personal carbon footprint through daily activity logging.</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              <li>Mobile</li><li>Flutter</li><li>UI/UX</li><li>Environment</li>
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            
+            <a href="https://www.youtube.com/watch?v=J9l6opqUvvw" target="_blank" rel="noopener" class="proj-link-visit">Visit</a>
+          </div>
+        </div>
+      </article>
+      
+      <article class="project-card"
+        data-year="2024"
+        data-award="true"
+        data-search="e-wise digital waste management app that encourages proper waste sorting and recycling habits through gamification and community engagement features. flutter mobile environment gamification "
+        style="">
+        
+        <a class="project-preview" href="https://www.youtube.com/watch?v=6Pdb6_B4ELo" target="_blank" rel="noopener">
+          <img src="https://img.youtube.com/vi/6Pdb6_B4ELo/hqdefault.jpg" alt="e-Wise" loading="lazy" />
+          <span class="project-play"><i class="fa-solid fa-play"></i></span>
+        </a>
+        
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">e-Wise</h3>
+            <span class="project-award" data-tooltip="Finalist – IEEE YESIST12 MF Track 2024"><i class="fa-solid fa-trophy"></i></span>
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">Digital waste management app that encourages proper waste sorting and recycling habits through gamification and community engagement features.</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              <li>Flutter</li><li>Mobile</li><li>Environment</li><li>Gamification</li>
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            
+            <a href="https://www.youtube.com/watch?v=6Pdb6_B4ELo" target="_blank" rel="noopener" class="proj-link-visit">Visit</a>
+          </div>
+        </div>
+      </article>
+      
+      <article class="project-card"
+        data-year="2024"
+        data-award="false"
+        data-search="givefoods ui design concept for a food donation platform connecting surplus food donors with recipients in need, reducing food waste in urban areas. figma ui/ux social impact "
+        style="display:none">
+        
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">GiveFoods</h3>
+            
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">UI design concept for a food donation platform connecting surplus food donors with recipients in need, reducing food waste in urban areas.</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              <li>Figma</li><li>UI/UX</li><li>Social Impact</li>
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            
+            
+          </div>
+        </div>
+      </article>
+      
+      <article class="project-card"
+        data-year="2024"
+        data-award="true"
+        data-search="neumedic mobile app supporting mental health monitoring for medical frontliners, featuring ai chatbot and stress tracking. built with google cloud and gemini integration. flutter google cloud gemini ai mobile mental health "
+        style="display:none">
+        
+        <a class="project-preview" href="https://www.youtube.com/watch?v=qtFh21ZoU24" target="_blank" rel="noopener">
+          <img src="https://img.youtube.com/vi/qtFh21ZoU24/hqdefault.jpg" alt="Neumedic" loading="lazy" />
+          <span class="project-play"><i class="fa-solid fa-play"></i></span>
+        </a>
+        
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">Neumedic</h3>
+            <span class="project-award" data-tooltip="Top 95 – Google Cloud AI for Impact 2024"><i class="fa-solid fa-trophy"></i></span>
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">Mobile app supporting mental health monitoring for medical frontliners, featuring AI chatbot and stress tracking. Built with Google Cloud and Gemini integration.</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              <li>Flutter</li><li>Google Cloud</li><li>Gemini AI</li><li>Mobile</li><li>Mental Health</li>
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            
+            <a href="https://www.youtube.com/watch?v=qtFh21ZoU24" target="_blank" rel="noopener" class="proj-link-visit">Visit</a>
+          </div>
+        </div>
+      </article>
+      
+      <article class="project-card"
+        data-year="2024"
+        data-award="true"
+        data-search="risefarmer mobile app empowering local farmers with digital tools for crop management, market access, and agricultural knowledge sharing. flutter mobile agritech "
+        style="display:none">
+        
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">RiseFarmer</h3>
+            <span class="project-award" data-tooltip="3rd Place – MotionHack 2024"><i class="fa-solid fa-trophy"></i></span>
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">Mobile app empowering local farmers with digital tools for crop management, market access, and agricultural knowledge sharing.</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              <li>Flutter</li><li>Mobile</li><li>AgriTech</li>
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            
+            
+          </div>
+        </div>
+      </article>
+      
+      <article class="project-card"
+        data-year="2024"
+        data-award="true"
+        data-search="taksonify gamified biology learning mobile app with object recognition to identify flora and fauna using flutter and computer vision. implements a quest system to boost engagement in taxonomy education. flutter computer vision gamification mobile "
+        style="display:none">
+        
+        <a class="project-preview" href="https://www.youtube.com/watch?v=t6StbYGuQcA" target="_blank" rel="noopener">
+          <img src="https://img.youtube.com/vi/t6StbYGuQcA/hqdefault.jpg" alt="Taksonify" loading="lazy" />
+          <span class="project-play"><i class="fa-solid fa-play"></i></span>
+        </a>
+        
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">Taksonify</h3>
+            <span class="project-award" data-tooltip="Bronze Medal – National Digital Innovation Competition (LIDM 2024)"><i class="fa-solid fa-trophy"></i></span>
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">Gamified biology learning mobile app with object recognition to identify flora and fauna using Flutter and computer vision. Implements a quest system to boost engagement in taxonomy education.</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              <li>Flutter</li><li>Computer Vision</li><li>Gamification</li><li>Mobile</li>
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            
+            <a href="https://www.youtube.com/watch?v=t6StbYGuQcA" target="_blank" rel="noopener" class="proj-link-visit">Visit</a>
+          </div>
+        </div>
+      </article>
+      
+      <article class="project-card"
+        data-year="2024"
+        data-award="false"
+        data-search="teman wisata smart tourism travel planning app that helps users discover local destinations, plan itineraries, and explore indonesian tourism with ai-powered recommendations. flutter mobile tourism ai "
+        style="display:none">
+        
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">Teman Wisata</h3>
+            
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">Smart tourism travel planning app that helps users discover local destinations, plan itineraries, and explore Indonesian tourism with AI-powered recommendations.</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              <li>Flutter</li><li>Mobile</li><li>Tourism</li><li>AI</li>
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            
+            
+          </div>
+        </div>
+      </article>
+      
+      <article class="project-card"
+        data-year="2024"
+        data-award="true"
+        data-search="terrax web3-based property platform enabling decentralized property ownership, investment, and transactions using blockchain technology. web3 blockchain react solidity "
+        style="display:none">
+        
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">TerraX</h3>
+            <span class="project-award" data-tooltip="3rd Place – Codefest 2024 Hackathon"><i class="fa-solid fa-trophy"></i></span>
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">Web3-based property platform enabling decentralized property ownership, investment, and transactions using blockchain technology.</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              <li>Web3</li><li>Blockchain</li><li>React</li><li>Solidity</li>
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            
+            
+          </div>
+        </div>
+      </article>
+      
+      <article class="project-card"
+        data-year="2023"
+        data-award="false"
+        data-search="academee design-based education project tackling challenges in modern learning environments through human-centered ux research and interactive design solutions. figma ui/ux education design thinking "
+        style="display:none">
+        
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">Academee</h3>
+            
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">Design-based education project tackling challenges in modern learning environments through human-centered UX research and interactive design solutions.</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              <li>Figma</li><li>UI/UX</li><li>Education</li><li>Design Thinking</li>
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            
+            
+          </div>
+        </div>
+      </article>
+      
+      <article class="project-card"
+        data-year="2023"
+        data-award="true"
+        data-search="serenity ai smart mental health companion mobile chatbot providing emotional support, mood tracking, and ai-driven mental wellness guidance for users. flutter ai mobile mental health "
+        style="display:none">
+        
+        <a class="project-preview" href="https://www.youtube.com/watch?v=pq7nzISryXk" target="_blank" rel="noopener">
+          <img src="https://img.youtube.com/vi/pq7nzISryXk/hqdefault.jpg" alt="Serenity AI" loading="lazy" />
+          <span class="project-play"><i class="fa-solid fa-play"></i></span>
+        </a>
+        
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">Serenity AI</h3>
+            <span class="project-award" data-tooltip="Finalist – IEEE YESIST12 Innovation Challenge 2023"><i class="fa-solid fa-trophy"></i></span>
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">Smart mental health companion mobile chatbot providing emotional support, mood tracking, and AI-driven mental wellness guidance for users.</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              <li>Flutter</li><li>AI</li><li>Mobile</li><li>Mental Health</li>
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            
+            <a href="https://www.youtube.com/watch?v=pq7nzISryXk" target="_blank" rel="noopener" class="proj-link-visit">Visit</a>
+          </div>
+        </div>
+      </article>
+      
+      <article class="project-card"
+        data-year="2023"
+        data-award="true"
+        data-search="simpkl internship management system for vocational schools. built with react frontend, node.js/express.js/prisma/postgresql backend, with full ci/cd pipeline, qa testing (katalon, sonarqube, cypress), and system architecture design. react node.js express.js postgresql prisma docker ci/cd "
+        style="display:none">
+        
+        <a class="project-preview" href="https://www.youtube.com/watch?v=NmTN8DNSERw" target="_blank" rel="noopener">
+          <img src="https://img.youtube.com/vi/NmTN8DNSERw/hqdefault.jpg" alt="SIMPKL" loading="lazy" />
+          <span class="project-play"><i class="fa-solid fa-play"></i></span>
+        </a>
+        
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">SIMPKL</h3>
+            <span class="project-award" data-tooltip="3rd Place – Business Idea Competition 2024"><i class="fa-solid fa-trophy"></i></span>
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">Internship management system for vocational schools. Built with React frontend, Node.js/Express.js/Prisma/PostgreSQL backend, with full CI/CD pipeline, QA testing (Katalon, SonarQube, Cypress), and system architecture design.</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              <li>React</li><li>Node.js</li><li>Express.js</li><li>PostgreSQL</li><li>Prisma</li><li>Docker</li><li>CI/CD</li>
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            
+            <a href="https://www.youtube.com/watch?v=NmTN8DNSERw" target="_blank" rel="noopener" class="proj-link-visit">Visit</a>
+          </div>
+        </div>
+      </article>
+      
+      <article class="project-card"
+        data-year="2022"
+        data-award="true"
+        data-search="portal akademik mahasiswa (pama) web-based academic portal inspired by modern university systems, providing students with integrated access to grades, schedules, and administrative services. web php mysql bootstrap "
+        style="display:none">
+        
+        <a class="project-preview" href="https://www.youtube.com/watch?v=jUffk98lX9I" target="_blank" rel="noopener">
+          <img src="https://img.youtube.com/vi/jUffk98lX9I/hqdefault.jpg" alt="Portal Akademik Mahasiswa (Pama)" loading="lazy" />
+          <span class="project-play"><i class="fa-solid fa-play"></i></span>
+        </a>
+        
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">Portal Akademik Mahasiswa (Pama)</h3>
+            <span class="project-award" data-tooltip="2nd Place – Software Engineering Competition Scholarship 2022"><i class="fa-solid fa-trophy"></i></span>
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">Web-based academic portal inspired by modern university systems, providing students with integrated access to grades, schedules, and administrative services.</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              <li>Web</li><li>PHP</li><li>MySQL</li><li>Bootstrap</li>
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            
+            <a href="https://www.youtube.com/watch?v=jUffk98lX9I" target="_blank" rel="noopener" class="proj-link-visit">Visit</a>
+          </div>
+        </div>
+      </article>
+      
+      <article class="project-card"
+        data-year="2022"
+        data-award="true"
+        data-search="template divi umkm premium web storefront template for small and medium businesses (umkm), providing an easy-to-use e-commerce solution built with wordpress and elementor. wordpress elementor woocommerce ui/ux "
+        style="display:none">
+        
+        <a class="project-preview" href="https://www.youtube.com/watch?v=6zZlXcpZB_A" target="_blank" rel="noopener">
+          <img src="https://img.youtube.com/vi/6zZlXcpZB_A/hqdefault.jpg" alt="Template Divi UMKM" loading="lazy" />
+          <span class="project-play"><i class="fa-solid fa-play"></i></span>
+        </a>
+        
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">Template Divi UMKM</h3>
+            <span class="project-award" data-tooltip="3rd Place – UMKM Web Design Competition 2022"><i class="fa-solid fa-trophy"></i></span>
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">Premium web storefront template for small and medium businesses (UMKM), providing an easy-to-use e-commerce solution built with WordPress and Elementor.</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              <li>WordPress</li><li>Elementor</li><li>WooCommerce</li><li>UI/UX</li>
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            
+            <a href="https://www.youtube.com/watch?v=6zZlXcpZB_A" target="_blank" rel="noopener" class="proj-link-visit">Visit</a>
+          </div>
+        </div>
+      </article>
+      
+    </div>
+
+    <div id="projSentinel" class="proj-sentinel"></div>
+    <div id="projLoading" class="proj-loading" style="display:none">
+      <div class="proj-spinner"></div>
+    </div>
+  </div>
+</section>
+
+  </main>
+  <footer class="site-footer">
+  <div class="container">
+    <p>&copy; 2026 Muhammad Haulul Azkiyaa. All rights reserved.</p>
+    <div class="social-links">
+      <a href="https://github.com/haululazkiyaa" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://linkedin.com/in/haululazkiyaa" target="_blank" rel="noopener">LinkedIn</a>
+    </div>
+  </div>
+</footer>
+
+  <nav class="bottom-nav" id="bottomNav" aria-label="Main navigation">
+  
+  <div class="nav-items" id="navItems">
+    <a href="#hero" class="nav-item nav-item--home" data-section="hero" aria-label="Home">
+      <span class="nav-icon"><i class="fa-solid fa-house"></i></span>
+    </a>
+    <span class="nav-separator"></span>
+    <a href="#about" class="nav-item" data-section="about">
+      <span class="nav-icon"><i class="fa-solid fa-user"></i></span>
+      <span class="nav-label">About</span>
+    </a>
+    <a href="#experience" class="nav-item" data-section="experience">
+      <span class="nav-icon"><i class="fa-solid fa-briefcase"></i></span>
+      <span class="nav-label">Experience</span>
+    </a>
+    <a href="#projects" class="nav-item" data-section="projects">
+      <span class="nav-icon"><i class="fa-solid fa-code"></i></span>
+      <span class="nav-label">Projects</span>
+    </a>
+    <a href="#achievements" class="nav-item" data-section="achievements">
+      <span class="nav-icon"><i class="fa-solid fa-trophy"></i></span>
+      <span class="nav-label">Achievements</span>
+    </a>
+    <a href="#blog" class="nav-item" data-section="blog">
+      <span class="nav-icon"><i class="fa-solid fa-newspaper"></i></span>
+      <span class="nav-label">Blog</span>
+    </a>
+    <span class="nav-separator nav-search-sep"></span>
+    <button type="button" class="nav-item nav-search-btn" id="navSearchBtn" aria-label="Search">
+      <span class="nav-icon"><i class="fa-solid fa-magnifying-glass"></i></span>
+    </button>
+  </div>
+
+  
+  <div class="nav-search-bar" id="navSearchBar">
+    <i class="fa-solid fa-magnifying-glass nav-search-bar-icon"></i>
+    <input type="search" id="navSearchInput" class="nav-search-input" placeholder="Search posts…" autocomplete="off" />
+    <button type="button" class="nav-search-cancel" id="navSearchCancel" aria-label="Cancel">
+      <i class="fa-solid fa-xmark"></i>
+    </button>
+  </div>
+</nav>
+
+
+<div id="navSearchResults" class="nav-search-results" style="display:none"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<script>
+(function () {
+  var nav          = document.getElementById('bottomNav');
+  var searchBtn    = document.getElementById('navSearchBtn');
+  var searchBar    = document.getElementById('navSearchBar');
+  var searchInput  = document.getElementById('navSearchInput');
+  var cancelBtn    = document.getElementById('navSearchCancel');
+  var resultsPanel = document.getElementById('navSearchResults');
+  var fuse         = null;
+  var isOpen       = false;
+
+  if (!searchBtn) return;
+
+  function openSearch() {
+    isOpen = true;
+    nav.classList.add('searching');
+    resultsPanel.style.display = 'none';
+    searchInput.value = '';
+    setTimeout(function () { searchInput.focus(); }, 120);
+    if (!fuse) loadIndex();
+  }
+
+  function closeSearch() {
+    if (!isOpen) return;
+    isOpen = false;
+    nav.classList.remove('searching');
+    resultsPanel.style.display = 'none';
+    searchInput.value = '';
+    searchInput.blur();
+  }
+
+  function loadIndex() {
+    fetch('/index.json')
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        fuse = new Fuse(data, {
+          keys: ['title', 'summary', 'category', 'tags'],
+          threshold: 0.35,
+          minMatchCharLength: 2
+        });
+      });
+  }
+
+  function renderResults(items) {
+    if (!items.length) {
+      resultsPanel.innerHTML = '<p class="search-empty">No results found</p>';
+      resultsPanel.style.display = 'block';
+      return;
+    }
+    resultsPanel.innerHTML = '';
+    items.forEach(function (r) {
+      var p = r.item;
+      var el = document.createElement('a');
+      el.className = 'search-result-item';
+      el.href = p.url;
+      el.innerHTML =
+        '<div class="sri-thumb">' +
+          (p.thumbnail
+            ? '<img src="' + p.thumbnail + '" alt="" />'
+            : '<div class="sri-thumb-default"><span>Tulisan Haulul</span></div>') +
+        '</div>' +
+        '<div class="sri-body">' +
+          '<p class="sri-title">' + p.title + '</p>' +
+          '<p class="sri-meta">' + (p.date || '') + (p.category ? ' · ' + p.category : '') + '</p>' +
+          '<p class="sri-summary">' + (p.summary || '').substring(0, 100) + '…</p>' +
+        '</div>';
+      resultsPanel.appendChild(el);
+    });
+    resultsPanel.style.display = 'block';
+  }
+
+  searchBtn.addEventListener('click', function (e) {
+    e.stopPropagation();
+    openSearch();
+  });
+  cancelBtn.addEventListener('click', function (e) {
+    e.stopPropagation();
+    closeSearch();
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') closeSearch();
+  });
+
+  searchInput.addEventListener('input', function () {
+    var q = searchInput.value.trim();
+    if (!q || !fuse) { resultsPanel.style.display = 'none'; return; }
+    renderResults(fuse.search(q).slice(0, 6));
+  });
+
+  
+  document.addEventListener('click', function (e) {
+    if (searchBar.style.display === 'none') return;
+    if (!searchBar.contains(e.target) && !resultsPanel.contains(e.target)) {
+      closeSearch();
+    }
+  });
+})();
+</script>
+
+  <script src="/js/main.js"></script>
+  
+<script>
+(function () {
+  var BATCH = 6;
+  var grid      = document.getElementById('projectsGrid');
+  var sentinel  = document.getElementById('projSentinel');
+  var loading   = document.getElementById('projLoading');
+  var searchEl  = document.getElementById('projSearch');
+  var filterBtn = document.getElementById('projFilterBtn');
+  var filterPanel = document.getElementById('projFilterPanel');
+  var clearBtn  = document.getElementById('projFilterClear');
+  if (!grid) return;
+
+  var empty    = document.getElementById('projEmpty');
+  var allCards = Array.from(grid.querySelectorAll('.project-card'));
+  var shown = BATCH;
+  var filtering = false;
+
+   
+  function applyPagination() {
+    allCards.forEach(function (c, i) {
+      c.dataset.pageHidden = i >= shown ? 'true' : 'false';
+    });
+  }
+  applyPagination();
+
+  function renderVisibility() {
+    var query   = searchEl ? searchEl.value.trim().toLowerCase() : '';
+    var years   = Array.from(document.querySelectorAll('.flt-year:checked')).map(function(el){ return el.value; });
+    var onlyAward = document.getElementById('fltAward') && document.getElementById('fltAward').checked;
+    filtering = query || years.length || onlyAward;
+
+    allCards.forEach(function (c) {
+      var matchSearch = !query || c.dataset.search.includes(query);
+      var matchYear   = !years.length || years.includes(c.dataset.year);
+      var matchAward  = !onlyAward || c.dataset.award === 'true';
+      var matchPaging = filtering || c.dataset.pageHidden !== 'true';
+      c.style.display = (matchSearch && matchYear && matchAward && matchPaging) ? '' : 'none';
+    });
+
+    if (sentinel) sentinel.style.display = filtering ? 'none' : '';
+    if (empty) {
+      var anyVisible = allCards.some(function(c){ return c.style.display !== 'none'; });
+      empty.style.display = anyVisible ? 'none' : 'flex';
+    }
+    updateClearBtn();
+  }
+
+  function updateClearBtn() {
+    if (!clearBtn) return;
+    var active = (searchEl && searchEl.value.trim()) ||
+      document.querySelectorAll('.flt-year:checked').length ||
+      (document.getElementById('fltAward') && document.getElementById('fltAward').checked);
+    clearBtn.style.display = active ? 'inline-flex' : 'none';
+  }
+
+   
+  if (searchEl) searchEl.addEventListener('input', renderVisibility);
+
+   
+  if (filterBtn && filterPanel) {
+    filterBtn.addEventListener('click', function () {
+      var open = filterPanel.getAttribute('aria-hidden') !== 'true';
+      filterPanel.setAttribute('aria-hidden', open ? 'true' : 'false');
+      filterBtn.classList.toggle('active', !open);
+    });
+  }
+
+   
+  document.querySelectorAll('.flt-year, #fltAward').forEach(function (el) {
+    el.addEventListener('change', renderVisibility);
+  });
+
+   
+  if (clearBtn) {
+    clearBtn.addEventListener('click', function () {
+      if (searchEl) searchEl.value = '';
+      document.querySelectorAll('.flt-year').forEach(function(el){ el.checked = false; });
+      var aw = document.getElementById('fltAward');
+      if (aw) aw.checked = false;
+      renderVisibility();
+    });
+  }
+
+   
+  if (sentinel) {
+    var observer = new IntersectionObserver(function (entries) {
+      if (!entries[0].isIntersecting || filtering) return;
+      if (shown >= allCards.length) { observer.disconnect(); return; }
+      if (loading) loading.style.display = 'flex';
+      setTimeout(function () {
+        var next = shown + BATCH;
+        allCards.slice(shown, next).forEach(function (c) {
+          c.dataset.pageHidden = 'false';
+          c.classList.add('proj--fade-in');
+          c.style.display = '';
+        });
+        shown = next;
+        if (loading) loading.style.display = 'none';
+        if (shown >= allCards.length) observer.disconnect();
+      }, 350);
+    }, { rootMargin: '300px' });
+    observer.observe(sentinel);
+  }
+
+   
+  allCards.forEach(function (card) {
+    var btn  = card.querySelector('.proj-see-more');
+    var desc = card.querySelector('.project-desc');
+    if (btn && desc) {
+      btn.addEventListener('click', function () {
+        var expanded = btn.getAttribute('aria-expanded') === 'true';
+        desc.classList.toggle('proj-desc--expanded', !expanded);
+        btn.setAttribute('aria-expanded', String(!expanded));
+        btn.textContent = expanded ? 'See more' : 'See less';
+      });
+    }
+    var tags  = Array.from(card.querySelectorAll('.project-tags li'));
+    var badge = card.querySelector('.proj-tags-more');
+    var LIMIT = 2;
+    if (badge && tags.length > LIMIT) {
+      var extra = tags.slice(LIMIT);
+      extra.forEach(function (t) { t.classList.add('proj-tag--hidden'); });
+      badge.textContent = '+' + extra.length;
+      badge.style.display = 'inline-block';
+      badge.addEventListener('click', function () {
+        var exp = badge.getAttribute('aria-expanded') === 'true';
+        extra.forEach(function (t) { t.classList.toggle('proj-tag--hidden', exp); });
+        badge.setAttribute('aria-expanded', String(!exp));
+        badge.textContent = exp ? '+' + extra.length : '–';
+      });
+    }
+  });
+
+   
+  renderVisibility();
+})();
+</script>
+
+</body>
+</html>

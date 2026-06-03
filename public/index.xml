@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haulul Azkiya — Portfolio</title>
+    <link>https://haulul.dev/</link>
+    <description>Recent content on Haulul Azkiya — Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://haulul.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Resilient Microservices with Go and gRPC</title>
+      <link>https://haulul.dev/blog/building-resilient-microservices/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/blog/building-resilient-microservices/</guid>
+      <description>A practical guide to designing fault-tolerant microservices using Go, gRPC, and circuit breaker patterns — lessons learned from production.</description>
+    </item>
+    <item>
+      <title>PostgreSQL Query Optimization: From 10s to 50ms</title>
+      <link>https://haulul.dev/blog/postgres-query-optimization/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/blog/postgres-query-optimization/</guid>
+      <description>How I tracked down and fixed a slow query that was blocking our main checkout flow — covering EXPLAIN ANALYZE, index strategies, and partial indexes.</description>
+    </item>
+    <item>
+      <title>Terraform State Management in a Team Environment</title>
+      <link>https://haulul.dev/blog/terraform-state-management/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/blog/terraform-state-management/</guid>
+      <description>Best practices for managing Terraform state in teams: remote backends, state locking, workspace strategies, and how to avoid the state corruption trap.</description>
+    </item>
+    <item>
+      <title>Kafka Consumer Patterns You Should Know</title>
+      <link>https://haulul.dev/blog/kafka-consumer-patterns/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/blog/kafka-consumer-patterns/</guid>
+      <description>A deep dive into consumer group strategies, offset management, and handling rebalances gracefully — patterns that have saved us from data loss more than once.</description>
+    </item>
+    <item>
+      <title>1st Winner</title>
+      <link>https://haulul.dev/achievements/ieee-prelim-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/achievements/ieee-prelim-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2nd Winner</title>
+      <link>https://haulul.dev/achievements/codefest-2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/achievements/codefest-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2nd Winner</title>
+      <link>https://haulul.dev/achievements/elevaite-2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/achievements/elevaite-2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2nd Winner</title>
+      <link>https://haulul.dev/achievements/secs-2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/achievements/secs-2022/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2nd Winner</title>
+      <link>https://haulul.dev/achievements/sitefest-2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/achievements/sitefest-2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3rd Winner</title>
+      <link>https://haulul.dev/achievements/business-idea-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/achievements/business-idea-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3rd Winner</title>
+      <link>https://haulul.dev/achievements/lidm-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/achievements/lidm-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3rd Winner</title>
+      <link>https://haulul.dev/achievements/motionhack-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/achievements/motionhack-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3rd Winner</title>
+      <link>https://haulul.dev/achievements/umkm-2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/achievements/umkm-2022/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3rd Winner</title>
+      <link>https://haulul.dev/achievements/ux-hology-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/achievements/ux-hology-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Academee</title>
+      <link>https://haulul.dev/projects/academee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/academee/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arunica Academy</title>
+      <link>https://haulul.dev/projects/arunica-academy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/arunica-academy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bachelor of Software Engineering — Telkom University</title>
+      <link>https://haulul.dev/education/telkom-university/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/education/telkom-university/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BeSafety</title>
+      <link>https://haulul.dev/projects/besafety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/besafety/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Community Manager at MCHub Indonesia</title>
+      <link>https://haulul.dev/experience/mchub-community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/experience/mchub-community/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Counter Carbon</title>
+      <link>https://haulul.dev/projects/counter-carbon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/counter-carbon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>e-Wise</title>
+      <link>https://haulul.dev/projects/ewise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/ewise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finalist</title>
+      <link>https://haulul.dev/achievements/ieee-yesist12-2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/achievements/ieee-yesist12-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frontend Developer at PuTI Telkom University</title>
+      <link>https://haulul.dev/experience/puti-telkom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/experience/puti-telkom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frontend Web Developer at HUMIC Research Center</title>
+      <link>https://haulul.dev/experience/humic-intern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/experience/humic-intern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Funding Recipient</title>
+      <link>https://haulul.dev/achievements/pkm-ki-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/achievements/pkm-ki-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GiveFoods</title>
+      <link>https://haulul.dev/projects/givefoods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/givefoods/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grand Finalist</title>
+      <link>https://haulul.dev/achievements/ieee-maker-fair-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/achievements/ieee-maker-fair-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MoveQuest</title>
+      <link>https://haulul.dev/projects/movequest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/movequest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neumedic</title>
+      <link>https://haulul.dev/projects/neumedic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/neumedic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nutrizee</title>
+      <link>https://haulul.dev/projects/nutrizee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/nutrizee/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portal Akademik Mahasiswa (Pama)</title>
+      <link>https://haulul.dev/projects/pama/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/pama/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RiseFarmer</title>
+      <link>https://haulul.dev/projects/risefarmer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/risefarmer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Runner Up</title>
+      <link>https://haulul.dev/achievements/ieee-runner-up-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/achievements/ieee-runner-up-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Serenity AI</title>
+      <link>https://haulul.dev/projects/serenity-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/serenity-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SIMPKL</title>
+      <link>https://haulul.dev/projects/simpkl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/simpkl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Taksonify</title>
+      <link>https://haulul.dev/projects/taksonify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/taksonify/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teman Wisata</title>
+      <link>https://haulul.dev/projects/teman-wisata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/teman-wisata/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Template Divi UMKM</title>
+      <link>https://haulul.dev/projects/template-divi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/template-divi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TerraX</title>
+      <link>https://haulul.dev/projects/terrax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/terrax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Top 2000</title>
+      <link>https://haulul.dev/achievements/indonesianext-2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/achievements/indonesianext-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Top 95</title>
+      <link>https://haulul.dev/achievements/google-cloud-ai-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/achievements/google-cloud-ai-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WordPress Developer at MCHub Indonesia</title>
+      <link>https://haulul.dev/experience/mchub-wordpress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/experience/mchub-wordpress/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

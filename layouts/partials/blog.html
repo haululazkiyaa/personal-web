@@ -1,0 +1,36 @@
+{{ $posts := where .Site.RegularPages "Section" "blog" }}
+{{ $sorted := sort $posts ".Date" "desc" }}
+<section id="blog" class="blog-section">
+  <div class="container">
+    <h2 class="section-title">Blog</h2>
+    <div class="blog-grid">
+      {{ range first 3 $sorted }}
+      <article class="blog-card">
+        <a href="{{ .Permalink }}" class="blog-thumbnail-wrap">
+          {{ if .Params.thumbnail }}
+          <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy" class="blog-thumbnail" />
+          {{ else }}
+          <div class="blog-thumb-default">
+            <span class="blog-thumb-text">Tulisan Haulul</span>
+          </div>
+          {{ end }}
+        </a>
+        <div class="blog-body">
+          <div class="blog-meta">
+            <span class="blog-date">{{ .Date.Format "Jan 2, 2006" }}</span>
+            {{ with .Params.category }}<span class="blog-category">{{ . }}</span>{{ end }}
+          </div>
+          <h3 class="blog-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          <p class="blog-excerpt">{{ .Summary }}</p>
+          <a class="blog-read-more" href="{{ .Permalink }}">Read more &rarr;</a>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+    {{ if gt (len $sorted) 3 }}
+    <div class="show-more-wrap">
+      <a class="btn btn-outline" href="/blog/">See more</a>
+    </div>
+    {{ end }}
+  </div>
+</section>

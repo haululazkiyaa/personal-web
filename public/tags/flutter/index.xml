@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flutter on Haulul Azkiya — Portfolio</title>
+    <link>https://haulul.dev/tags/flutter/</link>
+    <description>Recent content in Flutter on Haulul Azkiya — Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://haulul.dev/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arunica Academy</title>
+      <link>https://haulul.dev/projects/arunica-academy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/arunica-academy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BeSafety</title>
+      <link>https://haulul.dev/projects/besafety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/besafety/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Counter Carbon</title>
+      <link>https://haulul.dev/projects/counter-carbon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/counter-carbon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>e-Wise</title>
+      <link>https://haulul.dev/projects/ewise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/ewise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frontend Developer at PuTI Telkom University</title>
+      <link>https://haulul.dev/experience/puti-telkom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/experience/puti-telkom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neumedic</title>
+      <link>https://haulul.dev/projects/neumedic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/neumedic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nutrizee</title>
+      <link>https://haulul.dev/projects/nutrizee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/nutrizee/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RiseFarmer</title>
+      <link>https://haulul.dev/projects/risefarmer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/risefarmer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Serenity AI</title>
+      <link>https://haulul.dev/projects/serenity-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/serenity-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Taksonify</title>
+      <link>https://haulul.dev/projects/taksonify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/taksonify/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teman Wisata</title>
+      <link>https://haulul.dev/projects/teman-wisata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haulul.dev/projects/teman-wisata/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

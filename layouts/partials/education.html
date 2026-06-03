@@ -1,0 +1,45 @@
+{{ $edu := where .Site.RegularPages "Section" "education" }}
+{{ $sorted := sort $edu ".Params.endDate" "desc" }}
+<section id="education" class="education-section">
+  <div class="container">
+    <h2 class="section-title">Education</h2>
+    <div class="education-list">
+      {{ range $sorted }}
+      <article class="education-card">
+        {{ with .Params.logo }}
+        <div class="edu-logo">
+          <img src="{{ . }}" alt="{{ $.Params.institution }}" />
+        </div>
+        {{ end }}
+        <div class="edu-body">
+          <p class="edu-degree">{{ .Params.degree }}</p>
+          <p class="edu-institution">{{ .Params.institution }}{{ with .Params.location }} · {{ . }}{{ end }}</p>
+          <p class="edu-period">{{ .Params.startDate }} – {{ if .Params.endDate }}{{ .Params.endDate }}{{ else }}Present{{ end }}</p>
+          {{ with .Params.gpa }}<p class="edu-gpa">GPA: {{ . }}</p>{{ end }}
+          {{ with .Params.description }}
+          <div class="edu-desc-wrap">
+            <p class="edu-desc edu-desc--clamped">{{ . }}</p>
+            <button type="button" class="edu-see-more" aria-expanded="false">See more</button>
+          </div>
+          {{ end }}
+          {{ with .Params.activityDetails }}
+          <div class="edu-activities">
+            <button type="button" class="edu-activities-toggle" aria-expanded="false">
+              <span class="edu-activities-label">Activities &amp; Societies</span>
+              <i class="fa-solid fa-chevron-down edu-chevron"></i>
+            </button>
+            <div class="edu-activity-collapse">
+              <ul class="edu-activity-details">
+                {{ range . }}
+                <li>{{ . }}</li>
+                {{ end }}
+              </ul>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,30 @@
+<article class="project-card">
+  {{ if .Params.youtubeID }}
+  <a class="project-preview" href="{{ .Params.demoURL }}" target="_blank" rel="noopener" aria-label="Watch {{ .Title }}">
+    <img src="https://img.youtube.com/vi/{{ .Params.youtubeID }}/hqdefault.jpg" alt="{{ .Title }}" loading="lazy" />
+    <span class="project-play"><i class="fa-solid fa-play"></i></span>
+  </a>
+  {{ else if .Params.thumbnail }}
+  <img class="project-thumbnail" src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy" />
+  {{ end }}
+  <div class="project-body">
+    <div class="project-header">
+      <h3 class="project-title">{{ .Title }}</h3>
+      {{ with .Params.award }}<span class="project-award" data-tooltip="{{ . }}"><i class="fa-solid fa-trophy"></i></span>{{ end }}
+    </div>
+    <div class="project-desc-wrap">
+      <p class="project-desc project-desc--clamped">{{ .Params.description }}</p>
+      <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+    </div>
+    <div class="project-tags-wrap">
+      <ul class="project-tags">
+        {{ range .Params.tags }}<li>{{ . }}</li>{{ end }}
+      </ul>
+      <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+    </div>
+    <div class="project-links">
+      {{ with .Params.repoURL }}<a href="{{ . }}" target="_blank" rel="noopener" class="proj-link-github"><i class="fa-brands fa-github"></i> GitHub</a>{{ end }}
+      {{ with .Params.demoURL }}<a href="{{ . }}" target="_blank" rel="noopener" class="proj-link-visit">Visit</a>{{ end }}
+    </div>
+  </div>
+</article>

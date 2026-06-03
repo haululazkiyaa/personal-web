@@ -1,0 +1,17 @@
+{{ $projects := where .Site.RegularPages "Section" "projects" }}
+{{ $sorted := sort $projects ".Params.year" "desc" }}
+<section id="projects" class="projects-section">
+  <div class="container">
+    <h2 class="section-title">Projects</h2>
+    <div class="projects-grid">
+      {{ range first 3 $sorted }}
+        {{ partial "project-card.html" . }}
+      {{ end }}
+    </div>
+    {{ if gt (len $sorted) 3 }}
+    <div class="show-more-wrap">
+      <a class="btn btn-outline" href="/projects/">See more</a>
+    </div>
+    {{ end }}
+  </div>
+</section>

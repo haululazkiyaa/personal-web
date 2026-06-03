@@ -1,0 +1,19 @@
+<section id="hero" class="hero-section">
+  <div class="container">
+    <div class="hero-content">
+      <div class="hero-text">
+        <p class="hero-greeting">Hi, I'm</p>
+        <h1 class="hero-name">{{ .Site.Params.author }}</h1>
+        <h2 class="hero-title">{{ .Site.Params.title }}</h2>
+        <p class="hero-tagline">Building reliable, scalable, and meaningful software.</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="{{ .Site.Params.cvURL }}" target="_blank">Download CV</a>
+          <a class="btn btn-secondary" href="{{ .Site.Params.portfolioURL }}" target="_blank" rel="noopener">View Portfolio</a>
+        </div>
+      </div>
+      <div class="hero-photo">
+        <img src="/images/profile.gif" alt="Haulul Azkiya" />
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,16 @@
+baseURL = "https://haulul.dev/"
+languageCode = "en-us"
+title = "Haulul Azkiya — Portfolio"
+
+[params]
+  author = "Muhammad Haulul Azkiyaa"
+  title = "Software Engineer"
+  description = "Personal portfolio of Muhammad Haulul Azkiyaa — Software Engineer based in Bandung, Indonesia."
+  cvURL = "/files/cv.pdf"
+  portfolioURL = "https://canva.link/sbdbzbmylfdmd4a"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
