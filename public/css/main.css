@@ -2139,6 +2139,58 @@ section {
     padding-bottom: 1.25rem;
   }
 
+  /* Achievement gallery → horizontal swipe strip (saves vertical space) */
+  .ach-gallery {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    margin-right: -1.25rem;
+    padding-right: 1.25rem;
+    -webkit-mask-image: linear-gradient(
+      to right,
+      transparent 0,
+      black 1.25rem,
+      black calc(100% - 2.25rem),
+      transparent 100%
+    );
+    mask-image: linear-gradient(
+      to right,
+      transparent 0,
+      black 1.25rem,
+      black calc(100% - 2.25rem),
+      transparent 100%
+    );
+  }
+  .ach-gallery::-webkit-scrollbar {
+    display: none;
+  }
+  /* drop the left fade at the start, right fade at the end */
+  .ach-gallery.at-start {
+    -webkit-mask-image: linear-gradient(
+      to right, black 0, black calc(100% - 2.25rem), transparent 100%);
+    mask-image: linear-gradient(
+      to right, black 0, black calc(100% - 2.25rem), transparent 100%);
+  }
+  .ach-gallery.at-end {
+    -webkit-mask-image: linear-gradient(
+      to right, transparent 0, black 1.25rem, black 100%);
+    mask-image: linear-gradient(
+      to right, transparent 0, black 1.25rem, black 100%);
+  }
+  .ach-gallery.at-start.at-end {
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+  .ach-gallery-item {
+    scroll-snap-align: start;
+  }
+  .ach-gallery-item img {
+    width: 120px;
+    height: 78px;
+  }
+
   /* Education */
   .education-card {
     display: flex;

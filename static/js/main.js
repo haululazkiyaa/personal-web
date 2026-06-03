@@ -75,6 +75,19 @@ document.addEventListener('DOMContentLoaded', function () {
     btn.addEventListener('click', function () { openLightbox(btn.dataset.src); });
   });
 
+  // Achievement gallery: toggle edge fades based on scroll position
+  document.querySelectorAll('.ach-gallery').forEach(function (strip) {
+    function updateFade() {
+      var atStart = strip.scrollLeft <= 1;
+      var atEnd = strip.scrollLeft + strip.clientWidth >= strip.scrollWidth - 1;
+      strip.classList.toggle('at-start', atStart);
+      strip.classList.toggle('at-end', atEnd);
+    }
+    strip.addEventListener('scroll', updateFade, { passive: true });
+    window.addEventListener('resize', updateFade);
+    updateFade();
+  });
+
   // Achievements: show more toggle
   var achBtn = document.getElementById('achShowMore');
   if (achBtn) {
