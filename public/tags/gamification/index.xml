@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gamification on Haulul Azkiya — Portfolio</title>
-    <link>https://haulul.dev/tags/gamification/</link>
+    <link>http://localhost:1313/tags/gamification/</link>
     <description>Recent content in Gamification on Haulul Azkiya — Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://haulul.dev/tags/gamification/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/gamification/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>e-Wise</title>
-      <link>https://haulul.dev/projects/ewise/</link>
+      <link>http://localhost:1313/projects/ewise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/ewise/</guid>
+      <guid>http://localhost:1313/projects/ewise/</guid>
       <description></description>
     </item>
     <item>
       <title>MoveQuest</title>
-      <link>https://haulul.dev/projects/movequest/</link>
+      <link>http://localhost:1313/projects/movequest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/movequest/</guid>
+      <guid>http://localhost:1313/projects/movequest/</guid>
       <description></description>
     </item>
     <item>
       <title>Taksonify</title>
-      <link>https://haulul.dev/projects/taksonify/</link>
+      <link>http://localhost:1313/projects/taksonify/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/taksonify/</guid>
+      <guid>http://localhost:1313/projects/taksonify/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Haulul Azkiya — Portfolio</title>
-    <link>https://haulul.dev/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blog on Haulul Azkiya — Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://haulul.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building Resilient Microservices with Go and gRPC</title>
-      <link>https://haulul.dev/blog/building-resilient-microservices/</link>
+      <link>http://localhost:1313/blog/building-resilient-microservices/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/blog/building-resilient-microservices/</guid>
+      <guid>http://localhost:1313/blog/building-resilient-microservices/</guid>
       <description>A practical guide to designing fault-tolerant microservices using Go, gRPC, and circuit breaker patterns — lessons learned from production.</description>
     </item>
     <item>
       <title>PostgreSQL Query Optimization: From 10s to 50ms</title>
-      <link>https://haulul.dev/blog/postgres-query-optimization/</link>
+      <link>http://localhost:1313/blog/postgres-query-optimization/</link>
       <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/blog/postgres-query-optimization/</guid>
+      <guid>http://localhost:1313/blog/postgres-query-optimization/</guid>
       <description>How I tracked down and fixed a slow query that was blocking our main checkout flow — covering EXPLAIN ANALYZE, index strategies, and partial indexes.</description>
     </item>
     <item>
       <title>Terraform State Management in a Team Environment</title>
-      <link>https://haulul.dev/blog/terraform-state-management/</link>
+      <link>http://localhost:1313/blog/terraform-state-management/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/blog/terraform-state-management/</guid>
+      <guid>http://localhost:1313/blog/terraform-state-management/</guid>
       <description>Best practices for managing Terraform state in teams: remote backends, state locking, workspace strategies, and how to avoid the state corruption trap.</description>
     </item>
     <item>
       <title>Kafka Consumer Patterns You Should Know</title>
-      <link>https://haulul.dev/blog/kafka-consumer-patterns/</link>
+      <link>http://localhost:1313/blog/kafka-consumer-patterns/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/blog/kafka-consumer-patterns/</guid>
+      <guid>http://localhost:1313/blog/kafka-consumer-patterns/</guid>
       <description>A deep dive into consumer group strategies, offset management, and handling rebalances gracefully — patterns that have saved us from data loss more than once.</description>
     </item>
   </channel>

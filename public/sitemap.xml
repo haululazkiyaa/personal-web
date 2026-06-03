@@ -2,220 +2,220 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://haulul.dev/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haulul.dev/blog/building-resilient-microservices/</loc>
+    <loc>http://localhost:1313/blog/building-resilient-microservices/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haulul.dev/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haulul.dev/blog/postgres-query-optimization/</loc>
+    <loc>http://localhost:1313/blog/postgres-query-optimization/</loc>
     <lastmod>2024-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haulul.dev/blog/terraform-state-management/</loc>
+    <loc>http://localhost:1313/blog/terraform-state-management/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haulul.dev/tags/backend/</loc>
+    <loc>http://localhost:1313/tags/backend/</loc>
     <lastmod>2023-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haulul.dev/tags/distributed-systems/</loc>
+    <loc>http://localhost:1313/tags/distributed-systems/</loc>
     <lastmod>2023-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haulul.dev/tags/kafka/</loc>
+    <loc>http://localhost:1313/tags/kafka/</loc>
     <lastmod>2023-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haulul.dev/blog/kafka-consumer-patterns/</loc>
+    <loc>http://localhost:1313/blog/kafka-consumer-patterns/</loc>
     <lastmod>2023-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haulul.dev/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haulul.dev/achievements/ieee-prelim-2024/</loc>
+    <loc>http://localhost:1313/achievements/ieee-prelim-2024/</loc>
   </url><url>
-    <loc>https://haulul.dev/achievements/codefest-2023/</loc>
+    <loc>http://localhost:1313/achievements/codefest-2023/</loc>
   </url><url>
-    <loc>https://haulul.dev/achievements/elevaite-2025/</loc>
+    <loc>http://localhost:1313/achievements/elevaite-2025/</loc>
   </url><url>
-    <loc>https://haulul.dev/achievements/secs-2022/</loc>
+    <loc>http://localhost:1313/achievements/secs-2022/</loc>
   </url><url>
-    <loc>https://haulul.dev/achievements/sitefest-2025/</loc>
+    <loc>http://localhost:1313/achievements/sitefest-2025/</loc>
   </url><url>
-    <loc>https://haulul.dev/achievements/business-idea-2024/</loc>
+    <loc>http://localhost:1313/achievements/business-idea-2024/</loc>
   </url><url>
-    <loc>https://haulul.dev/achievements/lidm-2024/</loc>
+    <loc>http://localhost:1313/achievements/lidm-2024/</loc>
   </url><url>
-    <loc>https://haulul.dev/achievements/motionhack-2024/</loc>
+    <loc>http://localhost:1313/achievements/motionhack-2024/</loc>
   </url><url>
-    <loc>https://haulul.dev/achievements/umkm-2022/</loc>
+    <loc>http://localhost:1313/achievements/umkm-2022/</loc>
   </url><url>
-    <loc>https://haulul.dev/achievements/ux-hology-2024/</loc>
+    <loc>http://localhost:1313/achievements/ux-hology-2024/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/academee/</loc>
+    <loc>http://localhost:1313/projects/academee/</loc>
   </url><url>
-    <loc>https://haulul.dev/achievements/</loc>
+    <loc>http://localhost:1313/achievements/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/agile/</loc>
+    <loc>http://localhost:1313/tags/agile/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/agritech/</loc>
+    <loc>http://localhost:1313/tags/agritech/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/ai/</loc>
+    <loc>http://localhost:1313/tags/ai/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/ai-integration/</loc>
+    <loc>http://localhost:1313/tags/ai-integration/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/angular/</loc>
+    <loc>http://localhost:1313/tags/angular/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/arunica-academy/</loc>
+    <loc>http://localhost:1313/projects/arunica-academy/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/azure/</loc>
+    <loc>http://localhost:1313/tags/azure/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/azure-openai/</loc>
+    <loc>http://localhost:1313/tags/azure-openai/</loc>
   </url><url>
-    <loc>https://haulul.dev/education/telkom-university/</loc>
+    <loc>http://localhost:1313/education/telkom-university/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/besafety/</loc>
+    <loc>http://localhost:1313/projects/besafety/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/blockchain/</loc>
+    <loc>http://localhost:1313/tags/blockchain/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/bootstrap/</loc>
+    <loc>http://localhost:1313/tags/bootstrap/</loc>
   </url><url>
-    <loc>https://haulul.dev/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/ci/cd/</loc>
+    <loc>http://localhost:1313/tags/ci/cd/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/community-building/</loc>
+    <loc>http://localhost:1313/tags/community-building/</loc>
   </url><url>
-    <loc>https://haulul.dev/experience/mchub-community/</loc>
+    <loc>http://localhost:1313/experience/mchub-community/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/computer-vision/</loc>
+    <loc>http://localhost:1313/tags/computer-vision/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/counter-carbon/</loc>
+    <loc>http://localhost:1313/projects/counter-carbon/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/design-thinking/</loc>
+    <loc>http://localhost:1313/tags/design-thinking/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/docker/</loc>
+    <loc>http://localhost:1313/tags/docker/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/ewise/</loc>
+    <loc>http://localhost:1313/projects/ewise/</loc>
   </url><url>
-    <loc>https://haulul.dev/education/</loc>
+    <loc>http://localhost:1313/education/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/education/</loc>
+    <loc>http://localhost:1313/tags/education/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/eeg/</loc>
+    <loc>http://localhost:1313/tags/eeg/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/elementor/</loc>
+    <loc>http://localhost:1313/tags/elementor/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/environment/</loc>
+    <loc>http://localhost:1313/tags/environment/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/express.js/</loc>
+    <loc>http://localhost:1313/tags/express.js/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/figma/</loc>
+    <loc>http://localhost:1313/tags/figma/</loc>
   </url><url>
-    <loc>https://haulul.dev/achievements/ieee-yesist12-2023/</loc>
+    <loc>http://localhost:1313/achievements/ieee-yesist12-2023/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/flutter/</loc>
+    <loc>http://localhost:1313/tags/flutter/</loc>
   </url><url>
-    <loc>https://haulul.dev/experience/puti-telkom/</loc>
+    <loc>http://localhost:1313/experience/puti-telkom/</loc>
   </url><url>
-    <loc>https://haulul.dev/experience/humic-intern/</loc>
+    <loc>http://localhost:1313/experience/humic-intern/</loc>
   </url><url>
-    <loc>https://haulul.dev/achievements/pkm-ki-2024/</loc>
+    <loc>http://localhost:1313/achievements/pkm-ki-2024/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/gamification/</loc>
+    <loc>http://localhost:1313/tags/gamification/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/gemini-ai/</loc>
+    <loc>http://localhost:1313/tags/gemini-ai/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/givefoods/</loc>
+    <loc>http://localhost:1313/projects/givefoods/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/google-cloud/</loc>
+    <loc>http://localhost:1313/tags/google-cloud/</loc>
   </url><url>
-    <loc>https://haulul.dev/achievements/ieee-maker-fair-2024/</loc>
+    <loc>http://localhost:1313/achievements/ieee-maker-fair-2024/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/iot/</loc>
+    <loc>http://localhost:1313/tags/iot/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/lms/</loc>
+    <loc>http://localhost:1313/tags/lms/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/mental-health/</loc>
+    <loc>http://localhost:1313/tags/mental-health/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/mobile/</loc>
+    <loc>http://localhost:1313/tags/mobile/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/movequest/</loc>
+    <loc>http://localhost:1313/projects/movequest/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/mysql/</loc>
+    <loc>http://localhost:1313/tags/mysql/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/neumedic/</loc>
+    <loc>http://localhost:1313/projects/neumedic/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/node.js/</loc>
+    <loc>http://localhost:1313/tags/node.js/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/nutrizee/</loc>
+    <loc>http://localhost:1313/projects/nutrizee/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/php/</loc>
+    <loc>http://localhost:1313/tags/php/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/pama/</loc>
+    <loc>http://localhost:1313/projects/pama/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/postgresql/</loc>
+    <loc>http://localhost:1313/tags/postgresql/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/prisma/</loc>
+    <loc>http://localhost:1313/tags/prisma/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/qa-testing/</loc>
+    <loc>http://localhost:1313/tags/qa-testing/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/react/</loc>
+    <loc>http://localhost:1313/tags/react/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/react.js/</loc>
+    <loc>http://localhost:1313/tags/react.js/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/rest-api/</loc>
+    <loc>http://localhost:1313/tags/rest-api/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/risefarmer/</loc>
+    <loc>http://localhost:1313/projects/risefarmer/</loc>
   </url><url>
-    <loc>https://haulul.dev/achievements/ieee-runner-up-2024/</loc>
+    <loc>http://localhost:1313/achievements/ieee-runner-up-2024/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/safety/</loc>
+    <loc>http://localhost:1313/tags/safety/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/serenity-ai/</loc>
+    <loc>http://localhost:1313/projects/serenity-ai/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/simpkl/</loc>
+    <loc>http://localhost:1313/projects/simpkl/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/social-impact/</loc>
+    <loc>http://localhost:1313/tags/social-impact/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/solidity/</loc>
+    <loc>http://localhost:1313/tags/solidity/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/taksonify/</loc>
+    <loc>http://localhost:1313/projects/taksonify/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/team-management/</loc>
+    <loc>http://localhost:1313/tags/team-management/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/teamwork/</loc>
+    <loc>http://localhost:1313/tags/teamwork/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/teman-wisata/</loc>
+    <loc>http://localhost:1313/projects/teman-wisata/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/template-divi/</loc>
+    <loc>http://localhost:1313/projects/template-divi/</loc>
   </url><url>
-    <loc>https://haulul.dev/projects/terrax/</loc>
+    <loc>http://localhost:1313/projects/terrax/</loc>
   </url><url>
-    <loc>https://haulul.dev/achievements/indonesianext-2023/</loc>
+    <loc>http://localhost:1313/achievements/indonesianext-2023/</loc>
   </url><url>
-    <loc>https://haulul.dev/achievements/google-cloud-ai-2024/</loc>
+    <loc>http://localhost:1313/achievements/google-cloud-ai-2024/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/tourism/</loc>
+    <loc>http://localhost:1313/tags/tourism/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/typescript/</loc>
+    <loc>http://localhost:1313/tags/typescript/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/ui-optimization/</loc>
+    <loc>http://localhost:1313/tags/ui-optimization/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/ui/ux/</loc>
+    <loc>http://localhost:1313/tags/ui/ux/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/web/</loc>
+    <loc>http://localhost:1313/tags/web/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/web3/</loc>
+    <loc>http://localhost:1313/tags/web3/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/woocommerce/</loc>
+    <loc>http://localhost:1313/tags/woocommerce/</loc>
   </url><url>
-    <loc>https://haulul.dev/tags/wordpress/</loc>
+    <loc>http://localhost:1313/tags/wordpress/</loc>
   </url><url>
-    <loc>https://haulul.dev/experience/mchub-wordpress/</loc>
+    <loc>http://localhost:1313/experience/mchub-wordpress/</loc>
   </url><url>
-    <loc>https://haulul.dev/experience/</loc>
+    <loc>http://localhost:1313/experience/</loc>
   </url>
 </urlset>

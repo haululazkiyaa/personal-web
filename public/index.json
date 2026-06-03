@@ -1,6 +1,6 @@
 [{
   "title": "Building Resilient Microservices with Go and gRPC",
-  "url": "https://haulul.dev/blog/building-resilient-microservices/",
+  "url": "http://localhost:1313/blog/building-resilient-microservices/",
   "date": "Mar 15, 2024",
   "category": "Backend",
   "tags": null,
@@ -8,7 +8,7 @@
   "thumbnail": "/images/blog/microservices.jpg"
 },{
   "title": "PostgreSQL Query Optimization: From 10s to 50ms",
-  "url": "https://haulul.dev/blog/postgres-query-optimization/",
+  "url": "http://localhost:1313/blog/postgres-query-optimization/",
   "date": "Jan 22, 2024",
   "category": "Database",
   "tags": null,
@@ -16,7 +16,7 @@
   "thumbnail": "/images/blog/postgres.jpg"
 },{
   "title": "Terraform State Management in a Team Environment",
-  "url": "https://haulul.dev/blog/terraform-state-management/",
+  "url": "http://localhost:1313/blog/terraform-state-management/",
   "date": "Nov 10, 2023",
   "category": "DevOps",
   "tags": null,
@@ -24,7 +24,7 @@
   "thumbnail": "/images/blog/terraform.jpg"
 },{
   "title": "Kafka Consumer Patterns You Should Know",
-  "url": "https://haulul.dev/blog/kafka-consumer-patterns/",
+  "url": "http://localhost:1313/blog/kafka-consumer-patterns/",
   "date": "Aug 5, 2023",
   "category": "Backend",
   "tags": ["Kafka","Backend","Distributed Systems"],

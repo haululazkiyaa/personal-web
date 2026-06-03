@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>REST API on Haulul Azkiya — Portfolio</title>
-    <link>https://haulul.dev/tags/rest-api/</link>
+    <link>http://localhost:1313/tags/rest-api/</link>
     <description>Recent content in REST API on Haulul Azkiya — Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://haulul.dev/tags/rest-api/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/rest-api/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Frontend Web Developer at HUMIC Research Center</title>
-      <link>https://haulul.dev/experience/humic-intern/</link>
+      <link>http://localhost:1313/experience/humic-intern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/experience/humic-intern/</guid>
+      <guid>http://localhost:1313/experience/humic-intern/</guid>
       <description></description>
     </item>
   </channel>

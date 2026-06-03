@@ -2,128 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Haulul Azkiya — Portfolio</title>
-    <link>https://haulul.dev/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Haulul Azkiya — Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://haulul.dev/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Academee</title>
-      <link>https://haulul.dev/projects/academee/</link>
+      <link>http://localhost:1313/projects/academee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/academee/</guid>
+      <guid>http://localhost:1313/projects/academee/</guid>
       <description></description>
     </item>
     <item>
       <title>Arunica Academy</title>
-      <link>https://haulul.dev/projects/arunica-academy/</link>
+      <link>http://localhost:1313/projects/arunica-academy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/arunica-academy/</guid>
+      <guid>http://localhost:1313/projects/arunica-academy/</guid>
       <description></description>
     </item>
     <item>
       <title>BeSafety</title>
-      <link>https://haulul.dev/projects/besafety/</link>
+      <link>http://localhost:1313/projects/besafety/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/besafety/</guid>
+      <guid>http://localhost:1313/projects/besafety/</guid>
       <description></description>
     </item>
     <item>
       <title>Counter Carbon</title>
-      <link>https://haulul.dev/projects/counter-carbon/</link>
+      <link>http://localhost:1313/projects/counter-carbon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/counter-carbon/</guid>
+      <guid>http://localhost:1313/projects/counter-carbon/</guid>
       <description></description>
     </item>
     <item>
       <title>e-Wise</title>
-      <link>https://haulul.dev/projects/ewise/</link>
+      <link>http://localhost:1313/projects/ewise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/ewise/</guid>
+      <guid>http://localhost:1313/projects/ewise/</guid>
       <description></description>
     </item>
     <item>
       <title>GiveFoods</title>
-      <link>https://haulul.dev/projects/givefoods/</link>
+      <link>http://localhost:1313/projects/givefoods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/givefoods/</guid>
+      <guid>http://localhost:1313/projects/givefoods/</guid>
       <description></description>
     </item>
     <item>
       <title>MoveQuest</title>
-      <link>https://haulul.dev/projects/movequest/</link>
+      <link>http://localhost:1313/projects/movequest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/movequest/</guid>
+      <guid>http://localhost:1313/projects/movequest/</guid>
       <description></description>
     </item>
     <item>
       <title>Neumedic</title>
-      <link>https://haulul.dev/projects/neumedic/</link>
+      <link>http://localhost:1313/projects/neumedic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/neumedic/</guid>
+      <guid>http://localhost:1313/projects/neumedic/</guid>
       <description></description>
     </item>
     <item>
       <title>Nutrizee</title>
-      <link>https://haulul.dev/projects/nutrizee/</link>
+      <link>http://localhost:1313/projects/nutrizee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/nutrizee/</guid>
+      <guid>http://localhost:1313/projects/nutrizee/</guid>
       <description></description>
     </item>
     <item>
       <title>Portal Akademik Mahasiswa (Pama)</title>
-      <link>https://haulul.dev/projects/pama/</link>
+      <link>http://localhost:1313/projects/pama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/pama/</guid>
+      <guid>http://localhost:1313/projects/pama/</guid>
       <description></description>
     </item>
     <item>
       <title>RiseFarmer</title>
-      <link>https://haulul.dev/projects/risefarmer/</link>
+      <link>http://localhost:1313/projects/risefarmer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/risefarmer/</guid>
+      <guid>http://localhost:1313/projects/risefarmer/</guid>
       <description></description>
     </item>
     <item>
       <title>Serenity AI</title>
-      <link>https://haulul.dev/projects/serenity-ai/</link>
+      <link>http://localhost:1313/projects/serenity-ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/serenity-ai/</guid>
+      <guid>http://localhost:1313/projects/serenity-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>SIMPKL</title>
-      <link>https://haulul.dev/projects/simpkl/</link>
+      <link>http://localhost:1313/projects/simpkl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/simpkl/</guid>
+      <guid>http://localhost:1313/projects/simpkl/</guid>
       <description></description>
     </item>
     <item>
       <title>Taksonify</title>
-      <link>https://haulul.dev/projects/taksonify/</link>
+      <link>http://localhost:1313/projects/taksonify/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/taksonify/</guid>
+      <guid>http://localhost:1313/projects/taksonify/</guid>
       <description></description>
     </item>
     <item>
       <title>Teman Wisata</title>
-      <link>https://haulul.dev/projects/teman-wisata/</link>
+      <link>http://localhost:1313/projects/teman-wisata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/teman-wisata/</guid>
+      <guid>http://localhost:1313/projects/teman-wisata/</guid>
       <description></description>
     </item>
     <item>
       <title>Template Divi UMKM</title>
-      <link>https://haulul.dev/projects/template-divi/</link>
+      <link>http://localhost:1313/projects/template-divi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/template-divi/</guid>
+      <guid>http://localhost:1313/projects/template-divi/</guid>
       <description></description>
     </item>
     <item>
       <title>TerraX</title>
-      <link>https://haulul.dev/projects/terrax/</link>
+      <link>http://localhost:1313/projects/terrax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/terrax/</guid>
+      <guid>http://localhost:1313/projects/terrax/</guid>
       <description></description>
     </item>
   </channel>

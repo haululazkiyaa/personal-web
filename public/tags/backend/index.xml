@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Backend on Haulul Azkiya — Portfolio</title>
-    <link>https://haulul.dev/tags/backend/</link>
+    <link>http://localhost:1313/tags/backend/</link>
     <description>Recent content in Backend on Haulul Azkiya — Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://haulul.dev/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/backend/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kafka Consumer Patterns You Should Know</title>
-      <link>https://haulul.dev/blog/kafka-consumer-patterns/</link>
+      <link>http://localhost:1313/blog/kafka-consumer-patterns/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/blog/kafka-consumer-patterns/</guid>
+      <guid>http://localhost:1313/blog/kafka-consumer-patterns/</guid>
       <description>A deep dive into consumer group strategies, offset management, and handling rebalances gracefully — patterns that have saved us from data loss more than once.</description>
     </item>
   </channel>

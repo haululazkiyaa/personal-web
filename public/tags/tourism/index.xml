@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tourism on Haulul Azkiya — Portfolio</title>
-    <link>https://haulul.dev/tags/tourism/</link>
+    <link>http://localhost:1313/tags/tourism/</link>
     <description>Recent content in Tourism on Haulul Azkiya — Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://haulul.dev/tags/tourism/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tourism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teman Wisata</title>
-      <link>https://haulul.dev/projects/teman-wisata/</link>
+      <link>http://localhost:1313/projects/teman-wisata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://haulul.dev/projects/teman-wisata/</guid>
+      <guid>http://localhost:1313/projects/teman-wisata/</guid>
       <description></description>
     </item>
   </channel>

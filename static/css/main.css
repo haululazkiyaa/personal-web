@@ -172,7 +172,6 @@ section {
 .hero-greeting {
   font-size: 1.1rem;
   color: #666;
-  margin-bottom: 0.5rem;
 }
 .hero-name {
   font-size: clamp(2.5rem, 6vw, 4rem);
@@ -1391,7 +1390,9 @@ section {
   padding: 0.25rem 0.65rem;
   border-radius: 20px;
 }
-.article-dot { color: #ccc; }
+.article-dot {
+  color: #ccc;
+}
 .article-title {
   font-size: clamp(1.8rem, 4vw, 2.6rem);
   font-weight: 800;
@@ -1458,14 +1459,23 @@ section {
 .prose a:hover {
   text-decoration-color: #1a1a1a;
 }
-.prose strong { font-weight: 700; color: #1a1a1a; }
-.prose em { font-style: italic; }
+.prose strong {
+  font-weight: 700;
+  color: #1a1a1a;
+}
+.prose em {
+  font-style: italic;
+}
 .prose ul,
 .prose ol {
   padding-left: 1.4rem;
 }
-.prose ul { list-style: disc; }
-.prose ol { list-style: decimal; }
+.prose ul {
+  list-style: disc;
+}
+.prose ol {
+  list-style: decimal;
+}
 .prose li {
   margin-top: 0.5rem;
   padding-left: 0.3rem;
@@ -1479,7 +1489,9 @@ section {
   color: #555;
   font-style: italic;
 }
-.prose blockquote p { color: #555; }
+.prose blockquote p {
+  color: #555;
+}
 .prose code {
   font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
   font-size: 0.88em;
@@ -1557,7 +1569,9 @@ section {
   color: #555;
   transition: color 0.15s;
 }
-.article-back-link:hover { color: #1a1a1a; }
+.article-back-link:hover {
+  color: #1a1a1a;
+}
 
 /* ===== Bottom Nav ===== */
 .bottom-nav {
@@ -1958,7 +1972,7 @@ section {
   }
 
   .hero-photo img {
-    width: min(280px, 70vw);
+    width: 280px;
   }
 
   .hero-photo::after {
