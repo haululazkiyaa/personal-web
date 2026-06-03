@@ -136,6 +136,7 @@ section {
 /* ===== Hero ===== */
 .hero-section .container {
   min-height: 100vh;
+  min-height: 100dvh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -2062,7 +2063,8 @@ section {
   }
 
   .hero-section .container {
-    min-height: auto;
+    min-height: 100vh;
+    min-height: 100dvh;
     padding-top: 3rem;
     padding-bottom: 3rem;
   }
@@ -2081,11 +2083,11 @@ section {
   }
 
   .hero-photo img {
-    width: 280px;
+    width: 260px;
   }
 
   .hero-photo::after {
-    height: 30%;
+    height: 20%;
   }
 
   .hero-actions {
@@ -2169,15 +2171,31 @@ section {
   /* drop the left fade at the start, right fade at the end */
   .ach-gallery.at-start {
     -webkit-mask-image: linear-gradient(
-      to right, black 0, black calc(100% - 2.25rem), transparent 100%);
+      to right,
+      black 0,
+      black calc(100% - 2.25rem),
+      transparent 100%
+    );
     mask-image: linear-gradient(
-      to right, black 0, black calc(100% - 2.25rem), transparent 100%);
+      to right,
+      black 0,
+      black calc(100% - 2.25rem),
+      transparent 100%
+    );
   }
   .ach-gallery.at-end {
     -webkit-mask-image: linear-gradient(
-      to right, transparent 0, black 1.25rem, black 100%);
+      to right,
+      transparent 0,
+      black 1.25rem,
+      black 100%
+    );
     mask-image: linear-gradient(
-      to right, transparent 0, black 1.25rem, black 100%);
+      to right,
+      transparent 0,
+      black 1.25rem,
+      black 100%
+    );
   }
   .ach-gallery.at-start.at-end {
     -webkit-mask-image: none;
