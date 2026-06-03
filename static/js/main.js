@@ -221,3 +221,47 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
 })();
+
+// ===== Scroll reveal (homepage) =====
+(function () {
+  if (!document.body.classList.contains('section-home')) return;
+  if (!window.matchMedia('(prefers-reduced-motion: no-preference)').matches) return;
+
+  // Auto-tag below-the-fold elements (hero is tagged in the template)
+  var selectors = [
+    '.section-title', '.about-summary', '.about-skills', '.about-certs',
+    '.exp-group', '.education-card', '.project-card', '.ach-item', '.blog-card'
+  ];
+  selectors.forEach(function (s) {
+    document.querySelectorAll(s).forEach(function (el) {
+      el.setAttribute('data-reveal', '');
+    });
+  });
+
+  // Stagger siblings within grids / lists
+  ['.projects-grid', '.blog-grid', '.skills-list', '.education-list', '.ach-timeline', '.exp-timeline']
+    .forEach(function (cs) {
+      document.querySelectorAll(cs).forEach(function (container) {
+        Array.prototype.slice.call(container.children)
+          .filter(function (k) { return k.hasAttribute('data-reveal'); })
+          .forEach(function (k, i) {
+            k.style.setProperty('--reveal-delay', (Math.min(i, 6) * 0.07) + 's');
+          });
+      });
+    });
+
+  var all = document.querySelectorAll('[data-reveal]');
+  if (!('IntersectionObserver' in window)) {
+    all.forEach(function (e) { e.classList.add('is-visible'); });
+    return;
+  }
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (en) {
+      if (en.isIntersecting) {
+        en.target.classList.add('is-visible');
+        io.unobserve(en.target);
+      }
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -6% 0px' });
+  all.forEach(function (e) { io.observe(e); });
+})();
