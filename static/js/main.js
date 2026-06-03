@@ -133,12 +133,31 @@ document.addEventListener('DOMContentLoaded', function () {
 
   var navItems = Array.from(nav.querySelectorAll('.nav-item[data-section]'));
   var sectionIds = navItems.map(function (el) { return el.dataset.section; });
+  var titleEl = document.getElementById('navActiveTitle');
+  var hamburger = document.getElementById('navHamburger');
+  var TITLES = {
+    hero: 'Home', about: 'About', experience: 'Experience',
+    projects: 'Projects', achievements: 'Achievements', blog: 'Blog'
+  };
 
   function setActive(id) {
     navItems.forEach(function (item) {
       item.classList.toggle('active', item.dataset.section === id);
     });
+    if (titleEl && TITLES[id]) titleEl.textContent = TITLES[id];
   }
+
+  /* Mobile menu popup toggle */
+  function closeMenu() { nav.classList.remove('menu-open'); }
+  function toggleMenu(e) {
+    e.stopPropagation();
+    nav.classList.toggle('menu-open');
+  }
+  if (hamburger) hamburger.addEventListener('click', toggleMenu);
+  if (titleEl) titleEl.addEventListener('click', toggleMenu);
+  document.addEventListener('click', function (e) {
+    if (nav.classList.contains('menu-open') && !nav.contains(e.target)) closeMenu();
+  });
 
   function detectActive() {
     var mid = window.scrollY + window.innerHeight * 0.45;
@@ -176,6 +195,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   navItems.forEach(function (item) {
     item.addEventListener('click', function (e) {
+      closeMenu();
       var id = item.dataset.section;
       var target = document.getElementById(id);
       if (target) {

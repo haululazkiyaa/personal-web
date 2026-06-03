@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>React.js — Haulul Azkiya — Portfolio</title>
   <meta name="description" content="Personal portfolio of Muhammad Haulul Azkiyaa — Software Engineer based in Bandung, Indonesia." />
-  <link rel="stylesheet" href="/css/main.css" />
+  <link rel="stylesheet" href="/css/main.css?v=1780497936" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap" />
   <script src="https://kit.fontawesome.com/d1186bca51.js" crossorigin="anonymous"></script>
 </head>
@@ -37,9 +37,16 @@
 
   <nav class="bottom-nav" id="bottomNav" aria-label="Main navigation">
   
+  <button type="button" class="nav-item nav-hamburger" id="navHamburger" aria-label="Open menu">
+    <span class="nav-icon"><i class="fa-solid fa-bars"></i></span>
+  </button>
+  <span class="nav-separator nav-hamburger-sep"></span>
+
+  
   <div class="nav-items" id="navItems">
     <a href="#hero" class="nav-item nav-item--home" data-section="hero" aria-label="Home">
       <span class="nav-icon"><i class="fa-solid fa-house"></i></span>
+      <span class="nav-label">Home</span>
     </a>
     <span class="nav-separator"></span>
     <a href="#about" class="nav-item" data-section="about">
@@ -62,11 +69,16 @@
       <span class="nav-icon"><i class="fa-solid fa-newspaper"></i></span>
       <span class="nav-label">Blog</span>
     </a>
-    <span class="nav-separator nav-search-sep"></span>
-    <button type="button" class="nav-item nav-search-btn" id="navSearchBtn" aria-label="Search">
-      <span class="nav-icon"><i class="fa-solid fa-magnifying-glass"></i></span>
-    </button>
   </div>
+
+  
+  <button type="button" class="nav-active-title" id="navActiveTitle">Home</button>
+
+  
+  <span class="nav-separator nav-search-sep"></span>
+  <button type="button" class="nav-item nav-search-btn" id="navSearchBtn" aria-label="Search">
+    <span class="nav-icon"><i class="fa-solid fa-magnifying-glass"></i></span>
+  </button>
 
   
   <div class="nav-search-bar" id="navSearchBar">
@@ -181,7 +193,7 @@
 })();
 </script>
 
-  <script src="/js/main.js"></script>
+  <script src="/js/main.js?v=1780497936"></script>
   
 </body>
 </html>

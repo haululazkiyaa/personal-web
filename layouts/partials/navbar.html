@@ -1,8 +1,15 @@
 <nav class="bottom-nav" id="bottomNav" aria-label="Main navigation">
-  <!-- Normal nav items -->
+  <!-- Mobile-only hamburger (replaces home on small screens) -->
+  <button type="button" class="nav-item nav-hamburger" id="navHamburger" aria-label="Open menu">
+    <span class="nav-icon"><i class="fa-solid fa-bars"></i></span>
+  </button>
+  <span class="nav-separator nav-hamburger-sep"></span>
+
+  <!-- Nav links: horizontal pills on desktop, vertical popup on mobile -->
   <div class="nav-items" id="navItems">
     <a href="#hero" class="nav-item nav-item--home" data-section="hero" aria-label="Home">
       <span class="nav-icon"><i class="fa-solid fa-house"></i></span>
+      <span class="nav-label">Home</span>
     </a>
     <span class="nav-separator"></span>
     <a href="#about" class="nav-item" data-section="about">
@@ -25,11 +32,16 @@
       <span class="nav-icon"><i class="fa-solid fa-newspaper"></i></span>
       <span class="nav-label">Blog</span>
     </a>
-    <span class="nav-separator nav-search-sep"></span>
-    <button type="button" class="nav-item nav-search-btn" id="navSearchBtn" aria-label="Search">
-      <span class="nav-icon"><i class="fa-solid fa-magnifying-glass"></i></span>
-    </button>
   </div>
+
+  <!-- Mobile-only active page title (tap to open menu) -->
+  <button type="button" class="nav-active-title" id="navActiveTitle">Home</button>
+
+  <!-- Search (desktop + mobile) -->
+  <span class="nav-separator nav-search-sep"></span>
+  <button type="button" class="nav-item nav-search-btn" id="navSearchBtn" aria-label="Search">
+    <span class="nav-icon"><i class="fa-solid fa-magnifying-glass"></i></span>
+  </button>
 
   <!-- Search mode (inline, expands within navbar) -->
   <div class="nav-search-bar" id="navSearchBar">
