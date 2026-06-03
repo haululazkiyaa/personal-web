@@ -2,381 +2,381 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Haulul Azkiya — Portfolio</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://haulul.dev/tags/</link>
     <description>Recent content in Tags on Haulul Azkiya — Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://haulul.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Backend</title>
-      <link>http://localhost:1313/tags/backend/</link>
+      <link>https://haulul.dev/tags/backend/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/backend/</guid>
+      <guid>https://haulul.dev/tags/backend/</guid>
       <description></description>
     </item>
     <item>
       <title>Distributed Systems</title>
-      <link>http://localhost:1313/tags/distributed-systems/</link>
+      <link>https://haulul.dev/tags/distributed-systems/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/distributed-systems/</guid>
+      <guid>https://haulul.dev/tags/distributed-systems/</guid>
       <description></description>
     </item>
     <item>
       <title>Kafka</title>
-      <link>http://localhost:1313/tags/kafka/</link>
+      <link>https://haulul.dev/tags/kafka/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/kafka/</guid>
+      <guid>https://haulul.dev/tags/kafka/</guid>
       <description></description>
     </item>
     <item>
       <title>Agile</title>
-      <link>http://localhost:1313/tags/agile/</link>
+      <link>https://haulul.dev/tags/agile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/agile/</guid>
+      <guid>https://haulul.dev/tags/agile/</guid>
       <description></description>
     </item>
     <item>
       <title>AgriTech</title>
-      <link>http://localhost:1313/tags/agritech/</link>
+      <link>https://haulul.dev/tags/agritech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/agritech/</guid>
+      <guid>https://haulul.dev/tags/agritech/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>https://haulul.dev/tags/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>https://haulul.dev/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>AI Integration</title>
-      <link>http://localhost:1313/tags/ai-integration/</link>
+      <link>https://haulul.dev/tags/ai-integration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai-integration/</guid>
+      <guid>https://haulul.dev/tags/ai-integration/</guid>
       <description></description>
     </item>
     <item>
       <title>Angular</title>
-      <link>http://localhost:1313/tags/angular/</link>
+      <link>https://haulul.dev/tags/angular/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/angular/</guid>
+      <guid>https://haulul.dev/tags/angular/</guid>
       <description></description>
     </item>
     <item>
       <title>Azure</title>
-      <link>http://localhost:1313/tags/azure/</link>
+      <link>https://haulul.dev/tags/azure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/azure/</guid>
+      <guid>https://haulul.dev/tags/azure/</guid>
       <description></description>
     </item>
     <item>
       <title>Azure OpenAI</title>
-      <link>http://localhost:1313/tags/azure-openai/</link>
+      <link>https://haulul.dev/tags/azure-openai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/azure-openai/</guid>
+      <guid>https://haulul.dev/tags/azure-openai/</guid>
       <description></description>
     </item>
     <item>
       <title>Blockchain</title>
-      <link>http://localhost:1313/tags/blockchain/</link>
+      <link>https://haulul.dev/tags/blockchain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/blockchain/</guid>
+      <guid>https://haulul.dev/tags/blockchain/</guid>
       <description></description>
     </item>
     <item>
       <title>Bootstrap</title>
-      <link>http://localhost:1313/tags/bootstrap/</link>
+      <link>https://haulul.dev/tags/bootstrap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bootstrap/</guid>
+      <guid>https://haulul.dev/tags/bootstrap/</guid>
       <description></description>
     </item>
     <item>
       <title>CI/CD</title>
-      <link>http://localhost:1313/tags/ci/cd/</link>
+      <link>https://haulul.dev/tags/ci/cd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ci/cd/</guid>
+      <guid>https://haulul.dev/tags/ci/cd/</guid>
       <description></description>
     </item>
     <item>
       <title>Community Building</title>
-      <link>http://localhost:1313/tags/community-building/</link>
+      <link>https://haulul.dev/tags/community-building/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/community-building/</guid>
+      <guid>https://haulul.dev/tags/community-building/</guid>
       <description></description>
     </item>
     <item>
       <title>Computer Vision</title>
-      <link>http://localhost:1313/tags/computer-vision/</link>
+      <link>https://haulul.dev/tags/computer-vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/computer-vision/</guid>
+      <guid>https://haulul.dev/tags/computer-vision/</guid>
       <description></description>
     </item>
     <item>
       <title>Design Thinking</title>
-      <link>http://localhost:1313/tags/design-thinking/</link>
+      <link>https://haulul.dev/tags/design-thinking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/design-thinking/</guid>
+      <guid>https://haulul.dev/tags/design-thinking/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>http://localhost:1313/tags/docker/</link>
+      <link>https://haulul.dev/tags/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/docker/</guid>
+      <guid>https://haulul.dev/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Education</title>
-      <link>http://localhost:1313/tags/education/</link>
+      <link>https://haulul.dev/tags/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/education/</guid>
+      <guid>https://haulul.dev/tags/education/</guid>
       <description></description>
     </item>
     <item>
       <title>EEG</title>
-      <link>http://localhost:1313/tags/eeg/</link>
+      <link>https://haulul.dev/tags/eeg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/eeg/</guid>
+      <guid>https://haulul.dev/tags/eeg/</guid>
       <description></description>
     </item>
     <item>
       <title>Elementor</title>
-      <link>http://localhost:1313/tags/elementor/</link>
+      <link>https://haulul.dev/tags/elementor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/elementor/</guid>
+      <guid>https://haulul.dev/tags/elementor/</guid>
       <description></description>
     </item>
     <item>
       <title>Environment</title>
-      <link>http://localhost:1313/tags/environment/</link>
+      <link>https://haulul.dev/tags/environment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/environment/</guid>
+      <guid>https://haulul.dev/tags/environment/</guid>
       <description></description>
     </item>
     <item>
       <title>Express.js</title>
-      <link>http://localhost:1313/tags/express.js/</link>
+      <link>https://haulul.dev/tags/express.js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/express.js/</guid>
+      <guid>https://haulul.dev/tags/express.js/</guid>
       <description></description>
     </item>
     <item>
       <title>Figma</title>
-      <link>http://localhost:1313/tags/figma/</link>
+      <link>https://haulul.dev/tags/figma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/figma/</guid>
+      <guid>https://haulul.dev/tags/figma/</guid>
       <description></description>
     </item>
     <item>
       <title>Flutter</title>
-      <link>http://localhost:1313/tags/flutter/</link>
+      <link>https://haulul.dev/tags/flutter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/flutter/</guid>
+      <guid>https://haulul.dev/tags/flutter/</guid>
       <description></description>
     </item>
     <item>
       <title>Gamification</title>
-      <link>http://localhost:1313/tags/gamification/</link>
+      <link>https://haulul.dev/tags/gamification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gamification/</guid>
+      <guid>https://haulul.dev/tags/gamification/</guid>
       <description></description>
     </item>
     <item>
       <title>Gemini AI</title>
-      <link>http://localhost:1313/tags/gemini-ai/</link>
+      <link>https://haulul.dev/tags/gemini-ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gemini-ai/</guid>
+      <guid>https://haulul.dev/tags/gemini-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Google Cloud</title>
-      <link>http://localhost:1313/tags/google-cloud/</link>
+      <link>https://haulul.dev/tags/google-cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/google-cloud/</guid>
+      <guid>https://haulul.dev/tags/google-cloud/</guid>
       <description></description>
     </item>
     <item>
       <title>IoT</title>
-      <link>http://localhost:1313/tags/iot/</link>
+      <link>https://haulul.dev/tags/iot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/iot/</guid>
+      <guid>https://haulul.dev/tags/iot/</guid>
       <description></description>
     </item>
     <item>
       <title>LMS</title>
-      <link>http://localhost:1313/tags/lms/</link>
+      <link>https://haulul.dev/tags/lms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/lms/</guid>
+      <guid>https://haulul.dev/tags/lms/</guid>
       <description></description>
     </item>
     <item>
       <title>Mental Health</title>
-      <link>http://localhost:1313/tags/mental-health/</link>
+      <link>https://haulul.dev/tags/mental-health/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mental-health/</guid>
+      <guid>https://haulul.dev/tags/mental-health/</guid>
       <description></description>
     </item>
     <item>
       <title>Mobile</title>
-      <link>http://localhost:1313/tags/mobile/</link>
+      <link>https://haulul.dev/tags/mobile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mobile/</guid>
+      <guid>https://haulul.dev/tags/mobile/</guid>
       <description></description>
     </item>
     <item>
       <title>MySQL</title>
-      <link>http://localhost:1313/tags/mysql/</link>
+      <link>https://haulul.dev/tags/mysql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mysql/</guid>
+      <guid>https://haulul.dev/tags/mysql/</guid>
       <description></description>
     </item>
     <item>
       <title>Node.js</title>
-      <link>http://localhost:1313/tags/node.js/</link>
+      <link>https://haulul.dev/tags/node.js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/node.js/</guid>
+      <guid>https://haulul.dev/tags/node.js/</guid>
       <description></description>
     </item>
     <item>
       <title>PHP</title>
-      <link>http://localhost:1313/tags/php/</link>
+      <link>https://haulul.dev/tags/php/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/php/</guid>
+      <guid>https://haulul.dev/tags/php/</guid>
       <description></description>
     </item>
     <item>
       <title>PostgreSQL</title>
-      <link>http://localhost:1313/tags/postgresql/</link>
+      <link>https://haulul.dev/tags/postgresql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/postgresql/</guid>
+      <guid>https://haulul.dev/tags/postgresql/</guid>
       <description></description>
     </item>
     <item>
       <title>Prisma</title>
-      <link>http://localhost:1313/tags/prisma/</link>
+      <link>https://haulul.dev/tags/prisma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/prisma/</guid>
+      <guid>https://haulul.dev/tags/prisma/</guid>
       <description></description>
     </item>
     <item>
       <title>QA Testing</title>
-      <link>http://localhost:1313/tags/qa-testing/</link>
+      <link>https://haulul.dev/tags/qa-testing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/qa-testing/</guid>
+      <guid>https://haulul.dev/tags/qa-testing/</guid>
       <description></description>
     </item>
     <item>
       <title>React</title>
-      <link>http://localhost:1313/tags/react/</link>
+      <link>https://haulul.dev/tags/react/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/react/</guid>
+      <guid>https://haulul.dev/tags/react/</guid>
       <description></description>
     </item>
     <item>
       <title>React.js</title>
-      <link>http://localhost:1313/tags/react.js/</link>
+      <link>https://haulul.dev/tags/react.js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/react.js/</guid>
+      <guid>https://haulul.dev/tags/react.js/</guid>
       <description></description>
     </item>
     <item>
       <title>REST API</title>
-      <link>http://localhost:1313/tags/rest-api/</link>
+      <link>https://haulul.dev/tags/rest-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/rest-api/</guid>
+      <guid>https://haulul.dev/tags/rest-api/</guid>
       <description></description>
     </item>
     <item>
       <title>Safety</title>
-      <link>http://localhost:1313/tags/safety/</link>
+      <link>https://haulul.dev/tags/safety/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/safety/</guid>
+      <guid>https://haulul.dev/tags/safety/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Impact</title>
-      <link>http://localhost:1313/tags/social-impact/</link>
+      <link>https://haulul.dev/tags/social-impact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/social-impact/</guid>
+      <guid>https://haulul.dev/tags/social-impact/</guid>
       <description></description>
     </item>
     <item>
       <title>Solidity</title>
-      <link>http://localhost:1313/tags/solidity/</link>
+      <link>https://haulul.dev/tags/solidity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/solidity/</guid>
+      <guid>https://haulul.dev/tags/solidity/</guid>
       <description></description>
     </item>
     <item>
       <title>Team Management</title>
-      <link>http://localhost:1313/tags/team-management/</link>
+      <link>https://haulul.dev/tags/team-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/team-management/</guid>
+      <guid>https://haulul.dev/tags/team-management/</guid>
       <description></description>
     </item>
     <item>
       <title>Teamwork</title>
-      <link>http://localhost:1313/tags/teamwork/</link>
+      <link>https://haulul.dev/tags/teamwork/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/teamwork/</guid>
+      <guid>https://haulul.dev/tags/teamwork/</guid>
       <description></description>
     </item>
     <item>
       <title>Tourism</title>
-      <link>http://localhost:1313/tags/tourism/</link>
+      <link>https://haulul.dev/tags/tourism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tourism/</guid>
+      <guid>https://haulul.dev/tags/tourism/</guid>
       <description></description>
     </item>
     <item>
       <title>TypeScript</title>
-      <link>http://localhost:1313/tags/typescript/</link>
+      <link>https://haulul.dev/tags/typescript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/typescript/</guid>
+      <guid>https://haulul.dev/tags/typescript/</guid>
       <description></description>
     </item>
     <item>
       <title>UI Optimization</title>
-      <link>http://localhost:1313/tags/ui-optimization/</link>
+      <link>https://haulul.dev/tags/ui-optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ui-optimization/</guid>
+      <guid>https://haulul.dev/tags/ui-optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>UI/UX</title>
-      <link>http://localhost:1313/tags/ui/ux/</link>
+      <link>https://haulul.dev/tags/ui/ux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ui/ux/</guid>
+      <guid>https://haulul.dev/tags/ui/ux/</guid>
       <description></description>
     </item>
     <item>
       <title>Web</title>
-      <link>http://localhost:1313/tags/web/</link>
+      <link>https://haulul.dev/tags/web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/web/</guid>
+      <guid>https://haulul.dev/tags/web/</guid>
       <description></description>
     </item>
     <item>
       <title>Web3</title>
-      <link>http://localhost:1313/tags/web3/</link>
+      <link>https://haulul.dev/tags/web3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/web3/</guid>
+      <guid>https://haulul.dev/tags/web3/</guid>
       <description></description>
     </item>
     <item>
       <title>WooCommerce</title>
-      <link>http://localhost:1313/tags/woocommerce/</link>
+      <link>https://haulul.dev/tags/woocommerce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/woocommerce/</guid>
+      <guid>https://haulul.dev/tags/woocommerce/</guid>
       <description></description>
     </item>
     <item>
       <title>WordPress</title>
-      <link>http://localhost:1313/tags/wordpress/</link>
+      <link>https://haulul.dev/tags/wordpress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wordpress/</guid>
+      <guid>https://haulul.dev/tags/wordpress/</guid>
       <description></description>
     </item>
   </channel>

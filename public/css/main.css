@@ -109,7 +109,7 @@ section {
 .btn {
   display: inline-block;
   padding: 0.65rem 1.5rem;
-  border-radius: 6px;
+  border-radius: 100px;
   font-weight: 600;
   font-size: 0.95rem;
   cursor: pointer;
@@ -790,8 +790,8 @@ section {
 .proj-link-visit {
   font-size: 0.82rem;
   font-weight: 600;
-  padding: 0.3rem 0.8rem;
-  border-radius: 6px;
+  padding: 0.35rem 0.9rem;
+  border-radius: 100px;
   text-decoration: none;
   transition: opacity 0.2s;
 }

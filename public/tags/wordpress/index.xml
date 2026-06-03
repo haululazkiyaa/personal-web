@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WordPress on Haulul Azkiya — Portfolio</title>
-    <link>http://localhost:1313/tags/wordpress/</link>
+    <link>https://haulul.dev/tags/wordpress/</link>
     <description>Recent content in WordPress on Haulul Azkiya — Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://haulul.dev/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Template Divi UMKM</title>
-      <link>http://localhost:1313/projects/template-divi/</link>
+      <link>https://haulul.dev/projects/template-divi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/template-divi/</guid>
+      <guid>https://haulul.dev/projects/template-divi/</guid>
       <description></description>
     </item>
     <item>
       <title>WordPress Developer at MCHub Indonesia</title>
-      <link>http://localhost:1313/experience/mchub-wordpress/</link>
+      <link>https://haulul.dev/experience/mchub-wordpress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/mchub-wordpress/</guid>
+      <guid>https://haulul.dev/experience/mchub-wordpress/</guid>
       <description></description>
     </item>
   </channel>

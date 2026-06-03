@@ -2,304 +2,304 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haulul Azkiya — Portfolio</title>
-    <link>http://localhost:1313/</link>
+    <link>https://haulul.dev/</link>
     <description>Recent content on Haulul Azkiya — Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://haulul.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building Resilient Microservices with Go and gRPC</title>
-      <link>http://localhost:1313/blog/building-resilient-microservices/</link>
+      <link>https://haulul.dev/blog/building-resilient-microservices/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/building-resilient-microservices/</guid>
+      <guid>https://haulul.dev/blog/building-resilient-microservices/</guid>
       <description>A practical guide to designing fault-tolerant microservices using Go, gRPC, and circuit breaker patterns — lessons learned from production.</description>
     </item>
     <item>
       <title>PostgreSQL Query Optimization: From 10s to 50ms</title>
-      <link>http://localhost:1313/blog/postgres-query-optimization/</link>
+      <link>https://haulul.dev/blog/postgres-query-optimization/</link>
       <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/postgres-query-optimization/</guid>
+      <guid>https://haulul.dev/blog/postgres-query-optimization/</guid>
       <description>How I tracked down and fixed a slow query that was blocking our main checkout flow — covering EXPLAIN ANALYZE, index strategies, and partial indexes.</description>
     </item>
     <item>
       <title>Terraform State Management in a Team Environment</title>
-      <link>http://localhost:1313/blog/terraform-state-management/</link>
+      <link>https://haulul.dev/blog/terraform-state-management/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/terraform-state-management/</guid>
+      <guid>https://haulul.dev/blog/terraform-state-management/</guid>
       <description>Best practices for managing Terraform state in teams: remote backends, state locking, workspace strategies, and how to avoid the state corruption trap.</description>
     </item>
     <item>
       <title>Kafka Consumer Patterns You Should Know</title>
-      <link>http://localhost:1313/blog/kafka-consumer-patterns/</link>
+      <link>https://haulul.dev/blog/kafka-consumer-patterns/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/kafka-consumer-patterns/</guid>
+      <guid>https://haulul.dev/blog/kafka-consumer-patterns/</guid>
       <description>A deep dive into consumer group strategies, offset management, and handling rebalances gracefully — patterns that have saved us from data loss more than once.</description>
     </item>
     <item>
       <title>1st Winner</title>
-      <link>http://localhost:1313/achievements/ieee-prelim-2024/</link>
+      <link>https://haulul.dev/achievements/ieee-prelim-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/ieee-prelim-2024/</guid>
+      <guid>https://haulul.dev/achievements/ieee-prelim-2024/</guid>
       <description></description>
     </item>
     <item>
       <title>2nd Winner</title>
-      <link>http://localhost:1313/achievements/codefest-2023/</link>
+      <link>https://haulul.dev/achievements/codefest-2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/codefest-2023/</guid>
+      <guid>https://haulul.dev/achievements/codefest-2023/</guid>
       <description></description>
     </item>
     <item>
       <title>2nd Winner</title>
-      <link>http://localhost:1313/achievements/elevaite-2025/</link>
+      <link>https://haulul.dev/achievements/elevaite-2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/elevaite-2025/</guid>
+      <guid>https://haulul.dev/achievements/elevaite-2025/</guid>
       <description></description>
     </item>
     <item>
       <title>2nd Winner</title>
-      <link>http://localhost:1313/achievements/secs-2022/</link>
+      <link>https://haulul.dev/achievements/secs-2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/secs-2022/</guid>
+      <guid>https://haulul.dev/achievements/secs-2022/</guid>
       <description></description>
     </item>
     <item>
       <title>2nd Winner</title>
-      <link>http://localhost:1313/achievements/sitefest-2025/</link>
+      <link>https://haulul.dev/achievements/sitefest-2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/sitefest-2025/</guid>
+      <guid>https://haulul.dev/achievements/sitefest-2025/</guid>
       <description></description>
     </item>
     <item>
       <title>3rd Winner</title>
-      <link>http://localhost:1313/achievements/business-idea-2024/</link>
+      <link>https://haulul.dev/achievements/business-idea-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/business-idea-2024/</guid>
+      <guid>https://haulul.dev/achievements/business-idea-2024/</guid>
       <description></description>
     </item>
     <item>
       <title>3rd Winner</title>
-      <link>http://localhost:1313/achievements/lidm-2024/</link>
+      <link>https://haulul.dev/achievements/lidm-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/lidm-2024/</guid>
+      <guid>https://haulul.dev/achievements/lidm-2024/</guid>
       <description></description>
     </item>
     <item>
       <title>3rd Winner</title>
-      <link>http://localhost:1313/achievements/motionhack-2024/</link>
+      <link>https://haulul.dev/achievements/motionhack-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/motionhack-2024/</guid>
+      <guid>https://haulul.dev/achievements/motionhack-2024/</guid>
       <description></description>
     </item>
     <item>
       <title>3rd Winner</title>
-      <link>http://localhost:1313/achievements/umkm-2022/</link>
+      <link>https://haulul.dev/achievements/umkm-2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/umkm-2022/</guid>
+      <guid>https://haulul.dev/achievements/umkm-2022/</guid>
       <description></description>
     </item>
     <item>
       <title>3rd Winner</title>
-      <link>http://localhost:1313/achievements/ux-hology-2024/</link>
+      <link>https://haulul.dev/achievements/ux-hology-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/ux-hology-2024/</guid>
+      <guid>https://haulul.dev/achievements/ux-hology-2024/</guid>
       <description></description>
     </item>
     <item>
       <title>Academee</title>
-      <link>http://localhost:1313/projects/academee/</link>
+      <link>https://haulul.dev/projects/academee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/academee/</guid>
+      <guid>https://haulul.dev/projects/academee/</guid>
       <description></description>
     </item>
     <item>
       <title>Arunica Academy</title>
-      <link>http://localhost:1313/projects/arunica-academy/</link>
+      <link>https://haulul.dev/projects/arunica-academy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/arunica-academy/</guid>
+      <guid>https://haulul.dev/projects/arunica-academy/</guid>
       <description></description>
     </item>
     <item>
       <title>Bachelor of Software Engineering — Telkom University</title>
-      <link>http://localhost:1313/education/telkom-university/</link>
+      <link>https://haulul.dev/education/telkom-university/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/education/telkom-university/</guid>
+      <guid>https://haulul.dev/education/telkom-university/</guid>
       <description></description>
     </item>
     <item>
       <title>BeSafety</title>
-      <link>http://localhost:1313/projects/besafety/</link>
+      <link>https://haulul.dev/projects/besafety/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/besafety/</guid>
+      <guid>https://haulul.dev/projects/besafety/</guid>
       <description></description>
     </item>
     <item>
       <title>Community Manager at MCHub Indonesia</title>
-      <link>http://localhost:1313/experience/mchub-community/</link>
+      <link>https://haulul.dev/experience/mchub-community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/mchub-community/</guid>
+      <guid>https://haulul.dev/experience/mchub-community/</guid>
       <description></description>
     </item>
     <item>
       <title>Counter Carbon</title>
-      <link>http://localhost:1313/projects/counter-carbon/</link>
+      <link>https://haulul.dev/projects/counter-carbon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/counter-carbon/</guid>
+      <guid>https://haulul.dev/projects/counter-carbon/</guid>
       <description></description>
     </item>
     <item>
       <title>e-Wise</title>
-      <link>http://localhost:1313/projects/ewise/</link>
+      <link>https://haulul.dev/projects/ewise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/ewise/</guid>
+      <guid>https://haulul.dev/projects/ewise/</guid>
       <description></description>
     </item>
     <item>
       <title>Finalist</title>
-      <link>http://localhost:1313/achievements/ieee-yesist12-2023/</link>
+      <link>https://haulul.dev/achievements/ieee-yesist12-2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/ieee-yesist12-2023/</guid>
+      <guid>https://haulul.dev/achievements/ieee-yesist12-2023/</guid>
       <description></description>
     </item>
     <item>
       <title>Frontend Developer at PuTI Telkom University</title>
-      <link>http://localhost:1313/experience/puti-telkom/</link>
+      <link>https://haulul.dev/experience/puti-telkom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/puti-telkom/</guid>
+      <guid>https://haulul.dev/experience/puti-telkom/</guid>
       <description></description>
     </item>
     <item>
       <title>Frontend Web Developer at HUMIC Research Center</title>
-      <link>http://localhost:1313/experience/humic-intern/</link>
+      <link>https://haulul.dev/experience/humic-intern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/humic-intern/</guid>
+      <guid>https://haulul.dev/experience/humic-intern/</guid>
       <description></description>
     </item>
     <item>
       <title>Funding Recipient</title>
-      <link>http://localhost:1313/achievements/pkm-ki-2024/</link>
+      <link>https://haulul.dev/achievements/pkm-ki-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/pkm-ki-2024/</guid>
+      <guid>https://haulul.dev/achievements/pkm-ki-2024/</guid>
       <description></description>
     </item>
     <item>
       <title>GiveFoods</title>
-      <link>http://localhost:1313/projects/givefoods/</link>
+      <link>https://haulul.dev/projects/givefoods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/givefoods/</guid>
+      <guid>https://haulul.dev/projects/givefoods/</guid>
       <description></description>
     </item>
     <item>
       <title>Grand Finalist</title>
-      <link>http://localhost:1313/achievements/ieee-maker-fair-2024/</link>
+      <link>https://haulul.dev/achievements/ieee-maker-fair-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/ieee-maker-fair-2024/</guid>
+      <guid>https://haulul.dev/achievements/ieee-maker-fair-2024/</guid>
       <description></description>
     </item>
     <item>
       <title>MoveQuest</title>
-      <link>http://localhost:1313/projects/movequest/</link>
+      <link>https://haulul.dev/projects/movequest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/movequest/</guid>
+      <guid>https://haulul.dev/projects/movequest/</guid>
       <description></description>
     </item>
     <item>
       <title>Neumedic</title>
-      <link>http://localhost:1313/projects/neumedic/</link>
+      <link>https://haulul.dev/projects/neumedic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/neumedic/</guid>
+      <guid>https://haulul.dev/projects/neumedic/</guid>
       <description></description>
     </item>
     <item>
       <title>Nutrizee</title>
-      <link>http://localhost:1313/projects/nutrizee/</link>
+      <link>https://haulul.dev/projects/nutrizee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/nutrizee/</guid>
+      <guid>https://haulul.dev/projects/nutrizee/</guid>
       <description></description>
     </item>
     <item>
       <title>Portal Akademik Mahasiswa (Pama)</title>
-      <link>http://localhost:1313/projects/pama/</link>
+      <link>https://haulul.dev/projects/pama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/pama/</guid>
+      <guid>https://haulul.dev/projects/pama/</guid>
       <description></description>
     </item>
     <item>
       <title>RiseFarmer</title>
-      <link>http://localhost:1313/projects/risefarmer/</link>
+      <link>https://haulul.dev/projects/risefarmer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/risefarmer/</guid>
+      <guid>https://haulul.dev/projects/risefarmer/</guid>
       <description></description>
     </item>
     <item>
       <title>Runner Up</title>
-      <link>http://localhost:1313/achievements/ieee-runner-up-2024/</link>
+      <link>https://haulul.dev/achievements/ieee-runner-up-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/ieee-runner-up-2024/</guid>
+      <guid>https://haulul.dev/achievements/ieee-runner-up-2024/</guid>
       <description></description>
     </item>
     <item>
       <title>Serenity AI</title>
-      <link>http://localhost:1313/projects/serenity-ai/</link>
+      <link>https://haulul.dev/projects/serenity-ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/serenity-ai/</guid>
+      <guid>https://haulul.dev/projects/serenity-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>SIMPKL</title>
-      <link>http://localhost:1313/projects/simpkl/</link>
+      <link>https://haulul.dev/projects/simpkl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/simpkl/</guid>
+      <guid>https://haulul.dev/projects/simpkl/</guid>
       <description></description>
     </item>
     <item>
       <title>Taksonify</title>
-      <link>http://localhost:1313/projects/taksonify/</link>
+      <link>https://haulul.dev/projects/taksonify/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/taksonify/</guid>
+      <guid>https://haulul.dev/projects/taksonify/</guid>
       <description></description>
     </item>
     <item>
       <title>Teman Wisata</title>
-      <link>http://localhost:1313/projects/teman-wisata/</link>
+      <link>https://haulul.dev/projects/teman-wisata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/teman-wisata/</guid>
+      <guid>https://haulul.dev/projects/teman-wisata/</guid>
       <description></description>
     </item>
     <item>
       <title>Template Divi UMKM</title>
-      <link>http://localhost:1313/projects/template-divi/</link>
+      <link>https://haulul.dev/projects/template-divi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/template-divi/</guid>
+      <guid>https://haulul.dev/projects/template-divi/</guid>
       <description></description>
     </item>
     <item>
       <title>TerraX</title>
-      <link>http://localhost:1313/projects/terrax/</link>
+      <link>https://haulul.dev/projects/terrax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/terrax/</guid>
+      <guid>https://haulul.dev/projects/terrax/</guid>
       <description></description>
     </item>
     <item>
       <title>Top 2000</title>
-      <link>http://localhost:1313/achievements/indonesianext-2023/</link>
+      <link>https://haulul.dev/achievements/indonesianext-2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/indonesianext-2023/</guid>
+      <guid>https://haulul.dev/achievements/indonesianext-2023/</guid>
       <description></description>
     </item>
     <item>
       <title>Top 95</title>
-      <link>http://localhost:1313/achievements/google-cloud-ai-2024/</link>
+      <link>https://haulul.dev/achievements/google-cloud-ai-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/google-cloud-ai-2024/</guid>
+      <guid>https://haulul.dev/achievements/google-cloud-ai-2024/</guid>
       <description></description>
     </item>
     <item>
       <title>WordPress Developer at MCHub Indonesia</title>
-      <link>http://localhost:1313/experience/mchub-wordpress/</link>
+      <link>https://haulul.dev/experience/mchub-wordpress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/mchub-wordpress/</guid>
+      <guid>https://haulul.dev/experience/mchub-wordpress/</guid>
       <description></description>
     </item>
   </channel>

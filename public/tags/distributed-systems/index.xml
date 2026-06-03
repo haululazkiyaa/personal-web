@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Distributed Systems on Haulul Azkiya — Portfolio</title>
-    <link>http://localhost:1313/tags/distributed-systems/</link>
+    <link>https://haulul.dev/tags/distributed-systems/</link>
     <description>Recent content in Distributed Systems on Haulul Azkiya — Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/distributed-systems/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://haulul.dev/tags/distributed-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kafka Consumer Patterns You Should Know</title>
-      <link>http://localhost:1313/blog/kafka-consumer-patterns/</link>
+      <link>https://haulul.dev/blog/kafka-consumer-patterns/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/kafka-consumer-patterns/</guid>
+      <guid>https://haulul.dev/blog/kafka-consumer-patterns/</guid>
       <description>A deep dive into consumer group strategies, offset management, and handling rebalances gracefully — patterns that have saved us from data loss more than once.</description>
     </item>
   </channel>

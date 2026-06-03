@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agile on Haulul Azkiya — Portfolio</title>
-    <link>http://localhost:1313/tags/agile/</link>
+    <link>https://haulul.dev/tags/agile/</link>
     <description>Recent content in Agile on Haulul Azkiya — Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://haulul.dev/tags/agile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Frontend Developer at PuTI Telkom University</title>
-      <link>http://localhost:1313/experience/puti-telkom/</link>
+      <link>https://haulul.dev/experience/puti-telkom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/puti-telkom/</guid>
+      <guid>https://haulul.dev/experience/puti-telkom/</guid>
       <description></description>
     </item>
     <item>
       <title>Frontend Web Developer at HUMIC Research Center</title>
-      <link>http://localhost:1313/experience/humic-intern/</link>
+      <link>https://haulul.dev/experience/humic-intern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/humic-intern/</guid>
+      <guid>https://haulul.dev/experience/humic-intern/</guid>
       <description></description>
     </item>
   </channel>
