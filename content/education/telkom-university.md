@@ -1,0 +1,20 @@
+---
+title: "Bachelor of Software Engineering — Telkom University"
+degree: "Bachelor of Software Engineering"
+institution: "Telkom University"
+location: "Bandung, Indonesia"
+startDate: "Sep 2022"
+endDate: "Aug 2026"
+gpa: "3.96 / 4.00"
+logo: "/images/telkom-university.png"
+logoColor: "#cc0000"
+description: "Relevant coursework: Software Quality Assurance, Software Architecture & Design, Software Construction, Requirements Engineering, Object-Oriented Programming, Agile Project Management, Database Systems, Human-Computer Interaction, Data Structures."
+activities: "Scholarship Awardee · Teaching Assistant · Practicum Assistant · Laboratory Assistant · Student Clubs Member · Startup Founder"
+activityDetails:
+  - "Awardee of Software Engineering Scholarship (SECS) 2022"
+  - "Design Thinking and User Experience Teaching Assistant"
+  - "Data Structure, Object-Oriented Programming, and Database Practicum Assistant"
+  - "Laboratory Assistant at Digital Talent Centre Laboratory and Chevalier Laboratory"
+  - "Member of Google Developer Students Club BIT, Central Computer Improvement Tel-U, Mobile Innovation Laboratory Tel-U"
+  - "Startup Founder in Faculty Joint Incubation Program (FJIP) by Bandung Techno Park"
+---

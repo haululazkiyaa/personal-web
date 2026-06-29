@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working Experience on Haulul Azkiya — Portfolio</title>
+    <link>http://localhost:1313/experience/</link>
+    <description>Recent content in Working Experience on Haulul Azkiya — Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Community Manager at MCHub Indonesia</title>
+      <link>http://localhost:1313/experience/mchub-community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/mchub-community/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frontend Developer at PuTI Telkom University</title>
+      <link>http://localhost:1313/experience/puti-telkom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/puti-telkom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frontend Web Developer at HUMIC Research Center</title>
+      <link>http://localhost:1313/experience/humic-intern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/humic-intern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WordPress Developer at MCHub Indonesia</title>
+      <link>http://localhost:1313/experience/mchub-wordpress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/mchub-wordpress/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

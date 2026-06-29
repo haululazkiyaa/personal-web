@@ -1,0 +1,16 @@
+{{- $posts := where .Site.RegularPages "Section" "blog" -}}
+{{- $sorted := sort $posts ".Date" "desc" -}}
+[
+{{- range $i, $p := $sorted -}}
+{{- if $i }},{{ end -}}
+{
+  "title": {{ $p.Title | jsonify }},
+  "url": {{ $p.Permalink | jsonify }},
+  "date": {{ $p.Date.Format "Jan 2, 2006" | jsonify }},
+  "category": {{ $p.Params.category | jsonify }},
+  "tags": {{ $p.Params.tags | jsonify }},
+  "summary": {{ $p.Summary | jsonify }},
+  "thumbnail": {{ $p.Params.thumbnail | jsonify }}
+}
+{{- end -}}
+]

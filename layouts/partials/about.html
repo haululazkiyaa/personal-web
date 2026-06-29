@@ -1,0 +1,40 @@
+{{ $about := hugo.Data.about }}
+<section id="about" class="about-section">
+  <div class="container">
+    <div class="about-photo">
+      <img src="/images/mypict.jpg" alt="Photo" />
+    </div>
+    <h2 class="section-title">About Me</h2>
+
+    <div class="about-summary">
+      <p>{{ $about.summary }}</p>
+    </div>
+
+    <div class="about-skills">
+      <h3>Tools &amp; Technologies</h3>
+      <ul class="skills-list">
+        {{ range $about.skills }}
+        <li class="skill-badge"><i class="{{ .icon }}"></i> {{ .name }}</li>
+        {{ end }}
+      </ul>
+    </div>
+
+    <div class="about-certs">
+      <h3>Certifications</h3>
+      <div class="cert-carousel" id="certCarousel">
+        <div class="cert-track">
+            {{ range $about.certifications }}
+          <a class="cert-badge-link" href="{{ .url }}" target="_blank" rel="noopener" title="{{ .name }}">
+            <img class="cert-badge" src="{{ .badge }}" alt="{{ .name }}" loading="lazy" />
+          </a>
+          {{ end }}
+          {{ range $about.certifications }}
+          <a class="cert-badge-link" href="{{ .url }}" target="_blank" rel="noopener" aria-hidden="true" tabindex="-1">
+            <img class="cert-badge" src="{{ .badge }}" alt="" loading="lazy" />
+          </a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

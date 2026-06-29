@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gamification on Haulul Azkiya — Portfolio</title>
+    <link>http://localhost:1313/tags/gamification/</link>
+    <description>Recent content in Gamification on Haulul Azkiya — Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/gamification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>e-Wise</title>
+      <link>http://localhost:1313/projects/ewise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/ewise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MoveQuest</title>
+      <link>http://localhost:1313/projects/movequest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/movequest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Taksonify</title>
+      <link>http://localhost:1313/projects/taksonify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/taksonify/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

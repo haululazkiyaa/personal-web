@@ -1,0 +1,368 @@
+summary: >
+  Software Engineer with experience building web and mobile applications
+  across AI, healthtech, and edtech domains. I care about shipping clean and impactful software. Deeply interested
+  in Cloud, AI, and Web3 to exploring how to build an enterprise grade products.
+
+skills:
+  - name: JavaScript / TypeScript
+    icon: "fa-brands fa-js"
+  - name: React
+    icon: "fa-brands fa-react"
+  - name: Angular
+    icon: "fa-brands fa-angular"
+  - name: Flutter
+    icon: "fa-solid fa-mobile-screen"
+  - name: Node.js
+    icon: "fa-brands fa-node-js"
+  - name: PostgreSQL
+    icon: "fa-solid fa-database"
+  - name: Docker
+    icon: "fa-brands fa-docker"
+  - name: Google Cloud
+    icon: "fa-brands fa-google"
+  - name: Azure
+    icon: "fa-brands fa-microsoft"
+  - name: Git
+    icon: "fa-brands fa-git-alt"
+  - name: Figma
+    icon: "fa-brands fa-figma"
+  - name: Laravel
+    icon: "fa-brands fa-laravel"
+
+certifications:
+  - name: "Google AI for App Building"
+    issuer: "Coursera"
+    year: 2026
+    badge: "/images/certs/coursera-google-ai-for-app-building.png"
+    url: "https://www.credly.com/badges/87822d5f-73c0-4299-bfef-46488a8a6a6a/public_url"
+
+  - name: "Google AI for Data Analysis"
+    issuer: "Coursera"
+    year: 2026
+    badge: "/images/certs/coursera-google-ai-for-data-analysis.png"
+    url: "https://www.credly.com/badges/f85f9dfb-bc7a-4014-acf1-56147a761fe9/public_url"
+
+  - name: "Google AI Professional Certificate"
+    issuer: "Coursera"
+    year: 2026
+    badge: "/images/certs/coursera-google-ai-professional-certificate.png"
+    url: "https://www.credly.com/badges/53d1cbc5-479a-43dd-b6c4-d5d71e55b914/public_url"
+
+  - name: "Google AI for Brainstorming and Planning"
+    issuer: "Coursera"
+    year: 2026
+    badge: "/images/certs/coursera-google-ai-for-brainstorming-and-planning.png"
+    url: "https://www.credly.com/badges/d8d69f73-0006-4fce-b33d-e38e624aad34/public_url"
+
+  - name: "Google AI for Content Creation"
+    issuer: "Coursera"
+    year: 2026
+    badge: "/images/certs/coursera-google-ai-for-content-creation.png"
+    url: "https://www.credly.com/badges/7fa23b51-0de8-4aa4-acb3-a1fbb30131ed/public_url"
+
+  - name: "Google AI for Research and Insights"
+    issuer: "Coursera"
+    year: 2026
+    badge: "/images/certs/coursera-google-ai-for-research-and-insights.png"
+    url: "https://www.credly.com/badges/df46a43e-5b77-479a-b28d-479eb9e92e7a/public_url"
+
+  - name: "Google AI for Writing and Communicating"
+    issuer: "Coursera"
+    year: 2026
+    badge: "/images/certs/coursera-google-ai-for-writing-and-communicating.png"
+    url: "https://www.credly.com/badges/b17a6530-7200-4ede-a6d0-847b14b8f5cb/public_url"
+
+  - name: "Google AI Fundamentals"
+    issuer: "Coursera"
+    year: 2026
+    badge: "/images/certs/coursera-google-ai-fundamentals.png"
+    url: "https://www.credly.com/badges/74ab9005-bbdc-42b7-820f-1430e4637dfe/public_url"
+
+  - name: "AWS Educate Introduction to Cloud 101"
+    issuer: "Amazon Web Services Training and Certification"
+    year: 2026
+    badge: "/images/certs/aws-aws-educate-introduction-to-cloud-101.png"
+    url: "https://www.credly.com/badges/e028a0a5-2e9d-4199-9e54-af220e184ab7/public_url"
+
+  - name: "Use Machine Learning APIs on Google Cloud"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-use-machine-learning-apis-on-google.png"
+    url: "https://www.credly.com/badges/8c8491af-a526-4351-8d53-67084dc24244/public_url"
+
+  - name: "Configure Service Accounts and IAM Roles for Google Cloud"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-configure-service-accounts-and-iam-roles.png"
+    url: "https://www.credly.com/badges/8d5226c0-0eb1-4ec7-96fd-6bdee217adcf/public_url"
+
+  - name: "Create and Manage AlloyDB Instances"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-create-and-manage-alloydb-instances.png"
+    url: "https://www.credly.com/badges/95c88ad7-22a9-4b7a-aec7-0085b0cbfeb5/public_url"
+
+  - name: "Create and Manage Bigtable Instances"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-create-and-manage-bigtable-instances.png"
+    url: "https://www.credly.com/badges/0f2efdd8-515f-439c-ac34-63dc2d8858a1/public_url"
+
+  - name: "Create and Manage Cloud Spanner Instances"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-create-and-manage-cloud-spanner-instances.png"
+    url: "https://www.credly.com/badges/1058b9e6-e24c-484c-a98e-cae01af94ece/public_url"
+
+  - name: "Manage Data Models in Looker"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-manage-data-models-in-looker.png"
+    url: "https://www.credly.com/badges/57cd4510-6eb5-4756-8005-b4168ed567aa/public_url"
+
+  - name: "Analyze BigQuery Data in Connected Sheets"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-analyze-bigquery-data-in-connected-sheets.png"
+    url: "https://www.credly.com/badges/aa8c037a-2d29-42d7-8114-6a0f667a2f3b/public_url"
+
+  - name: "App Building with AppSheet"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-app-building-with-appsheet.png"
+    url: "https://www.credly.com/badges/9f20e179-aba8-44c4-9c26-2144acd9161f/public_url"
+
+  - name: "Build Real World AI Applications with Gemini and Imagen"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-build-real-world-ai-applications-with.png"
+    url: "https://www.credly.com/badges/7d3b22f4-411d-4015-85d4-e164e5efb752/public_url"
+
+  - name: "Develop with Apps Script and AppSheet"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-develop-with-apps-script-and-appsheet.png"
+    url: "https://www.credly.com/badges/3976a366-bee6-48e5-83d5-fa798754a5d1/public_url"
+
+  - name: "Enrich Metadata and Discovery of BigLake Data"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-enrich-metadata-and-discovery-of-biglake.png"
+    url: "https://www.credly.com/badges/85afe0cc-ac6f-4d5b-bf72-c9295baa6432/public_url"
+
+  - name: "Secure BigLake Data"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-secure-biglake-data.png"
+    url: "https://www.credly.com/badges/53dfe0f3-5e6e-4201-aa73-e48a01445cbb/public_url"
+
+  - name: "Streaming Analytics into BigQuery"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-streaming-analytics-into-bigquery.png"
+    url: "https://www.credly.com/badges/9619f1a9-d0f2-4ef9-bf2b-a54e550b68e5/public_url"
+
+  - name: "Create a Streaming Data Lake on Cloud Storage"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-create-a-streaming-data-lake-on.png"
+    url: "https://www.credly.com/badges/331825ba-6a9e-418f-8c3e-44eb60716457/public_url"
+
+  - name: "Analyze Speech and Language with Google APIs"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-analyze-speech-and-language-with-google.png"
+    url: "https://www.credly.com/badges/dd38e21c-66e2-4e0f-8190-c23d2b2988af/public_url"
+
+  - name: "Build LookML Objects in Looker"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-build-lookml-objects-in-looker.png"
+    url: "https://www.credly.com/badges/edfde93e-0131-45f1-8638-e222d288d1ac/public_url"
+
+  - name: "Cloud Speech API: 3 Ways"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-cloud-speech-api-3-ways.png"
+    url: "https://www.credly.com/badges/cf7afe64-a58c-4c20-ad15-b4cb1f303a82/public_url"
+
+  - name: "Create a Secure Data Lake on Cloud Storage"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-create-a-secure-data-lake-on.png"
+    url: "https://www.credly.com/badges/1e78078e-dd89-4005-9ca5-e83f245c4997/public_url"
+
+  - name: "Get Started with Google Workspace Tools"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-get-started-with-google-workspace-tools.png"
+    url: "https://www.credly.com/badges/1765b292-577d-42fa-971f-8b885743d8c2/public_url"
+
+  - name: "Use Functions, Formulas, and Charts in Google Sheets"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-use-functions-formulas-and-charts-in.png"
+    url: "https://www.credly.com/badges/9eb8ed61-3c3c-4cb8-810f-75b60c53d00c/public_url"
+
+  - name: "Using the Google Cloud Speech API"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-using-the-google-cloud-speech-api.png"
+    url: "https://www.credly.com/badges/40e4228e-0d80-461c-b157-15e8bf9ea2e5/public_url"
+
+  - name: "Develop Serverless Apps with Firebase"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-develop-serverless-apps-with-firebase.png"
+    url: "https://www.credly.com/badges/fac70bd0-87da-49d0-9894-d8fa6aaffc8e/public_url"
+
+  - name: "Get Started with Dataplex"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-get-started-with-dataplex.png"
+    url: "https://www.credly.com/badges/cafd911e-8bd8-429f-8821-758ce160ff79/public_url"
+
+  - name: "Get Started with Looker"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-get-started-with-looker.png"
+    url: "https://www.credly.com/badges/cfa37f49-6fef-4fa8-89c5-8bd112e7af63/public_url"
+
+  - name: "Get Started with Pub/Sub"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-get-started-with-pub-sub.png"
+    url: "https://www.credly.com/badges/faed6988-7196-436b-90fd-079d2ab5c545/public_url"
+
+  - name: "Optimize Costs for Google Kubernetes Engine"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-optimize-costs-for-google-kubernetes-engine.png"
+    url: "https://www.credly.com/badges/4445996b-2ad8-4fcb-aedc-49c34a1ad76b/public_url"
+
+  - name: "Store, Process, and Manage Data on Google Cloud - Command Line"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-store-process-and-manage-data-on.png"
+    url: "https://www.credly.com/badges/ab12a46c-73bc-4731-bfe1-7c77fb2c6468/public_url"
+
+  - name: "Store, Process, and Manage Data on Google Cloud - Console"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-store-process-and-manage-data-on-2.png"
+    url: "https://www.credly.com/badges/a0c5dd17-1b22-454b-85c8-12ce304abf53/public_url"
+
+  - name: "Build a Secure Google Cloud Network"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-build-a-secure-google-cloud-network.png"
+    url: "https://www.credly.com/badges/aeaddea2-cd48-4aa7-af2d-7b5c4a2a237a/public_url"
+
+  - name: "Deploy Kubernetes Applications on Google Cloud"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-deploy-kubernetes-applications-on-google-cloud.png"
+    url: "https://www.credly.com/badges/ea875042-967c-40c9-826a-432ee31e197b/public_url"
+
+  - name: "Develop Your Google Cloud Network"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-develop-your-google-cloud-network.png"
+    url: "https://www.credly.com/badges/48736bee-3603-4043-ab98-b21b73cdfb85/public_url"
+
+  - name: "Manage Kubernetes in Google Cloud"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-manage-kubernetes-in-google-cloud.png"
+    url: "https://www.credly.com/badges/f9471279-f976-4243-9e0c-55c472573c59/public_url"
+
+  - name: "Build Infrastructure with Terraform on Google Cloud"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-build-infrastructure-with-terraform-on-google.png"
+    url: "https://www.credly.com/badges/bb7f17d8-38ef-49ed-86db-f774ade14715/public_url"
+
+  - name: "Implement Load Balancing on Compute Engine"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-implement-load-balancing-on-compute-engine.png"
+    url: "https://www.credly.com/badges/68c67072-5407-4dc1-8a4f-f70b93672d35/public_url"
+
+  - name: "Set Up a Google Cloud Network"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-set-up-a-google-cloud-network.png"
+    url: "https://www.credly.com/badges/02645cbe-94be-4ff8-bdd2-bf6ca91b5f57/public_url"
+
+  - name: "Set Up an App Dev Environment on Google Cloud"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-set-up-an-app-dev-environment.png"
+    url: "https://www.credly.com/badges/93cc4d23-68e1-4c7a-b7cd-b425cd228a9e/public_url"
+
+  - name: "Cloud Functions: 3 Ways"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-cloud-functions-3-ways.png"
+    url: "https://www.credly.com/badges/a111a0f7-10d0-4714-b82f-2513df3cda91/public_url"
+
+  - name: "Get Started with API Gateway"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-get-started-with-api-gateway.png"
+    url: "https://www.credly.com/badges/1a5a58e9-fedd-4dcd-877c-567cda902c9a/public_url"
+
+  - name: "Get Started with Cloud Storage"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-get-started-with-cloud-storage.png"
+    url: "https://www.credly.com/badges/8029fbc6-b2c4-47cb-879f-00da70239773/public_url"
+
+  - name: "Monitor and Log with Google Cloud Operations Suite"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-monitor-and-log-with-google-cloud.png"
+    url: "https://www.credly.com/badges/478112b4-f73f-4efe-b053-6398f5ee7907/public_url"
+
+  - name: "Monitor and Manage Google Cloud Resources"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-monitor-and-manage-google-cloud-resources.png"
+    url: "https://www.credly.com/badges/83223f70-adc8-4cb7-a196-23b4c2b2f257/public_url"
+
+  - name: "Monitoring in Google Cloud"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-monitoring-in-google-cloud.png"
+    url: "https://www.credly.com/badges/e76e9952-0376-4ae8-b2e9-eae989943d93/public_url"
+
+  - name: "Use APIs to Work with Cloud Storage"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-use-apis-to-work-with-cloud.png"
+    url: "https://www.credly.com/badges/7e00df2e-7ad2-4369-801d-97442dfc991f/public_url"
+
+  - name: "App Engine: 3 Ways"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-app-engine-3-ways.png"
+    url: "https://www.credly.com/badges/ba176503-bd24-4650-b1b8-b5a3ae9b0969/public_url"
+
+  - name: "The Basics of Google Cloud Compute"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-the-basics-of-google-cloud-compute.png"
+    url: "https://www.credly.com/badges/7d01d1bd-abce-4192-97f8-19b918728481/public_url"
+
+  - name: "Unity Junior Programmer"
+    issuer: "Unity Technologies"
+    year: 2025
+    badge: "/images/certs/unity-unity-junior-programmer.png"
+    url: "https://www.credly.com/badges/17e74141-7815-4ecc-bf8f-2edad89147eb/public_url"
+
+  - name: "Unity Essentials"
+    issuer: "Unity Technologies"
+    year: 2025
+    badge: "/images/certs/unity-unity-essentials.png"
+    url: "https://www.credly.com/badges/01b6c216-dbd8-41ad-af6a-c3ab4dbcdb92/public_url"
+

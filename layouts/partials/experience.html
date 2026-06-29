@@ -1,0 +1,64 @@
+{{ $allExp := where .Site.RegularPages "Section" "experience" }}
+{{ $sorted := sort $allExp ".Params.sortDate" "desc" }}
+
+{{/* Build company order from desc: first appearance = most recent position */}}
+{{ $companies := slice }}
+{{ range $sorted }}
+  {{ if not (in $companies .Params.company) }}
+    {{ $companies = $companies | append .Params.company }}
+  {{ end }}
+{{ end }}
+
+{{ $.Scratch.Set "posCount" 0 }}
+
+<section id="experience" class="experience-section">
+  <div class="container">
+    <h2 class="section-title">Working Experience</h2>
+    <div class="exp-timeline" id="expTimeline">
+      {{ range $companies }}
+        {{ $company := . }}
+        {{ $positions := where $sorted ".Params.company" $company }}
+        {{ $first := index $positions 0 }}
+        <div class="exp-group">
+          <div class="exp-left">
+            {{ with $first.Params.logo }}
+            <img class="exp-logo" src="{{ . }}" alt="{{ $company }}" />
+            {{ end }}
+            <p class="exp-company">{{ $company }}</p>
+            {{ with $first.Params.location }}<p class="exp-location">{{ . }}</p>{{ end }}
+          </div>
+          <div class="exp-positions">
+            {{ range $positions }}
+              {{ $.Scratch.Add "posCount" 1 }}
+              {{ $n := $.Scratch.Get "posCount" }}
+              <div class="exp-position-row{{ if gt $n 3 }} exp-row--hidden{{ end }}">
+                <div class="exp-dot-wrap">
+                  <div class="exp-dot{{ if not .Params.endDate }} exp-dot--current{{ end }}"></div>
+                </div>
+                <div class="exp-position">
+                  <h3 class="exp-role">{{ .Params.role }}</h3>
+                  <p class="exp-period">{{ .Params.startDate }} – {{ if .Params.endDate }}{{ .Params.endDate }}{{ else }}Present{{ end }}</p>
+                  {{ with .Params.bullets }}
+                  <ul class="exp-bullets">
+                    {{ range . }}<li>{{ . }}</li>{{ end }}
+                  </ul>
+                  {{ end }}
+                  {{ with .Params.tags }}
+                  <ul class="exp-tags">
+                    {{ range . }}<li>{{ . }}</li>{{ end }}
+                  </ul>
+                  {{ end }}
+                </div>
+              </div>
+            {{ end }}
+          </div>
+        </div>
+      {{ end }}
+    </div>
+    {{ if gt ($.Scratch.Get "posCount") 3 }}
+    <div class="show-more-wrap">
+      <button type="button" class="btn btn-outline" id="expShowAll">See more</button>
+    </div>
+    {{ end }}
+  </div>
+</section>

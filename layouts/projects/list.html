@@ -1,0 +1,255 @@
+{{ define "title" }}Projects — {{ .Site.Title }}{{ end }}
+
+{{ define "extra-js" }}
+<script>
+(function () {
+  var BATCH = 6;
+  var grid      = document.getElementById('projectsGrid');
+  var sentinel  = document.getElementById('projSentinel');
+  var loading   = document.getElementById('projLoading');
+  var searchEl  = document.getElementById('projSearch');
+  var filterBtn = document.getElementById('projFilterBtn');
+  var filterPanel = document.getElementById('projFilterPanel');
+  var clearBtn  = document.getElementById('projFilterClear');
+  if (!grid) return;
+
+  var empty    = document.getElementById('projEmpty');
+  var allCards = Array.from(grid.querySelectorAll('.project-card'));
+  var shown = BATCH;
+  var filtering = false;
+
+  /* ── pagination helpers ── */
+  function applyPagination() {
+    allCards.forEach(function (c, i) {
+      c.dataset.pageHidden = i >= shown ? 'true' : 'false';
+    });
+  }
+  applyPagination();
+
+  function renderVisibility() {
+    var query   = searchEl ? searchEl.value.trim().toLowerCase() : '';
+    var years   = Array.from(document.querySelectorAll('.flt-year:checked')).map(function(el){ return el.value; });
+    var onlyAward = document.getElementById('fltAward') && document.getElementById('fltAward').checked;
+    filtering = query || years.length || onlyAward;
+
+    allCards.forEach(function (c) {
+      var matchSearch = !query || c.dataset.search.includes(query);
+      var matchYear   = !years.length || years.includes(c.dataset.year);
+      var matchAward  = !onlyAward || c.dataset.award === 'true';
+      var matchPaging = filtering || c.dataset.pageHidden !== 'true';
+      c.style.display = (matchSearch && matchYear && matchAward && matchPaging) ? '' : 'none';
+    });
+
+    if (sentinel) sentinel.style.display = filtering ? 'none' : '';
+    if (empty) {
+      var anyVisible = allCards.some(function(c){ return c.style.display !== 'none'; });
+      empty.style.display = anyVisible ? 'none' : 'flex';
+    }
+    updateClearBtn();
+  }
+
+  function updateClearBtn() {
+    if (!clearBtn) return;
+    var active = (searchEl && searchEl.value.trim()) ||
+      document.querySelectorAll('.flt-year:checked').length ||
+      (document.getElementById('fltAward') && document.getElementById('fltAward').checked);
+    clearBtn.style.display = active ? 'inline-flex' : 'none';
+  }
+
+  /* ── search ── */
+  if (searchEl) searchEl.addEventListener('input', renderVisibility);
+
+  /* ── filter panel toggle ── */
+  if (filterBtn && filterPanel) {
+    filterBtn.addEventListener('click', function () {
+      var open = filterPanel.getAttribute('aria-hidden') !== 'true';
+      filterPanel.setAttribute('aria-hidden', open ? 'true' : 'false');
+      filterBtn.classList.toggle('active', !open);
+    });
+  }
+
+  /* ── filter checkboxes ── */
+  document.querySelectorAll('.flt-year, #fltAward').forEach(function (el) {
+    el.addEventListener('change', renderVisibility);
+  });
+
+  /* ── clear ── */
+  if (clearBtn) {
+    clearBtn.addEventListener('click', function () {
+      if (searchEl) searchEl.value = '';
+      document.querySelectorAll('.flt-year').forEach(function(el){ el.checked = false; });
+      var aw = document.getElementById('fltAward');
+      if (aw) aw.checked = false;
+      renderVisibility();
+    });
+  }
+
+  /* ── infinite scroll ── */
+  if (sentinel) {
+    var observer = new IntersectionObserver(function (entries) {
+      if (!entries[0].isIntersecting || filtering) return;
+      if (shown >= allCards.length) { observer.disconnect(); return; }
+      if (loading) loading.style.display = 'flex';
+      setTimeout(function () {
+        var next = shown + BATCH;
+        allCards.slice(shown, next).forEach(function (c) {
+          c.dataset.pageHidden = 'false';
+          c.classList.add('proj--fade-in');
+          c.style.display = '';
+        });
+        shown = next;
+        if (loading) loading.style.display = 'none';
+        if (shown >= allCards.length) observer.disconnect();
+      }, 350);
+    }, { rootMargin: '300px' });
+    observer.observe(sentinel);
+  }
+
+  /* ── init card interactions ── */
+  allCards.forEach(function (card) {
+    var btn  = card.querySelector('.proj-see-more');
+    var desc = card.querySelector('.project-desc');
+    if (btn && desc) {
+      btn.addEventListener('click', function () {
+        var expanded = btn.getAttribute('aria-expanded') === 'true';
+        desc.classList.toggle('proj-desc--expanded', !expanded);
+        btn.setAttribute('aria-expanded', String(!expanded));
+        btn.textContent = expanded ? 'See more' : 'See less';
+      });
+    }
+    var tags  = Array.from(card.querySelectorAll('.project-tags li'));
+    var badge = card.querySelector('.proj-tags-more');
+    var LIMIT = 2;
+    if (badge && tags.length > LIMIT) {
+      var extra = tags.slice(LIMIT);
+      extra.forEach(function (t) { t.classList.add('proj-tag--hidden'); });
+      badge.textContent = '+' + extra.length;
+      badge.style.display = 'inline-block';
+      badge.addEventListener('click', function () {
+        var exp = badge.getAttribute('aria-expanded') === 'true';
+        extra.forEach(function (t) { t.classList.toggle('proj-tag--hidden', exp); });
+        badge.setAttribute('aria-expanded', String(!exp));
+        badge.textContent = exp ? '+' + extra.length : '–';
+      });
+    }
+  });
+
+  /* initial render */
+  renderVisibility();
+})();
+</script>
+{{ end }}
+
+{{ define "main" }}
+{{ $all    := where .Pages "Params.year" "gt" 0 }}
+{{ $sorted := sort $all ".Params.year" "desc" }}
+
+{{/* collect unique years */}}
+{{ $years := slice }}
+{{ range $sorted }}
+  {{ if not (in $years .Params.year) }}
+    {{ $years = $years | append .Params.year }}
+  {{ end }}
+{{ end }}
+
+<header class="page-topbar">
+  <div class="container">
+    <a href="/" class="page-back"><i class="fa-solid fa-arrow-left"></i></a>
+    <h1 class="page-topbar-title">Projects</h1>
+    <span class="page-topbar-spacer"></span>
+  </div>
+</header>
+
+<section class="page-section">
+  <div class="container">
+
+    {{/* Search + Filter bar */}}
+    <div class="proj-toolbar">
+      <div class="proj-search-wrap">
+        <i class="fa-solid fa-magnifying-glass proj-search-icon"></i>
+        <input type="search" id="projSearch" class="proj-search" placeholder="Search projects…" autocomplete="off" />
+      </div>
+      <div class="proj-toolbar-right">
+        <button type="button" id="projFilterBtn" class="proj-filter-btn">
+          <i class="fa-solid fa-sliders"></i> Filter
+        </button>
+        <button type="button" id="projFilterClear" class="proj-filter-clear" style="display:none">
+          <i class="fa-solid fa-xmark"></i> Clear
+        </button>
+      </div>
+    </div>
+
+    {{/* Filter panel */}}
+    <div id="projFilterPanel" class="proj-filter-panel" aria-hidden="true">
+      <div class="proj-filter-group">
+        <p class="proj-filter-label">Year</p>
+        <div class="proj-filter-checks">
+          {{ range $years }}
+          <label class="proj-check-label">
+            <input type="checkbox" class="flt-year" value="{{ . }}" />
+            <span>{{ . }}</span>
+          </label>
+          {{ end }}
+        </div>
+      </div>
+      <div class="proj-filter-group">
+        <p class="proj-filter-label">Award</p>
+        <label class="proj-check-label">
+          <input type="checkbox" id="fltAward" />
+          <span>Has award / placement</span>
+        </label>
+      </div>
+    </div>
+
+    {{/* All cards in one grid — JS controls visibility */}}
+    <div id="projEmpty" class="proj-empty" style="display:none">
+      <i class="fa-regular fa-folder-open"></i>
+      <p>No projects found</p>
+      <span>Try adjusting your search or filters</span>
+    </div>
+    <div class="projects-grid" id="projectsGrid">
+      {{ range $i, $p := $sorted }}
+      <article class="project-card"
+        data-year="{{ .Params.year }}"
+        data-award="{{ if .Params.award }}true{{ else }}false{{ end }}"
+        data-search="{{ lower .Title }} {{ lower .Params.description }} {{ range .Params.tags }}{{ lower . }} {{ end }}"
+        style="{{ if ge $i 6 }}display:none{{ end }}">
+        {{ if .Params.youtubeID }}
+        <a class="project-preview" href="{{ .Params.demoURL }}" target="_blank" rel="noopener">
+          <img src="https://img.youtube.com/vi/{{ .Params.youtubeID }}/hqdefault.jpg" alt="{{ .Title }}" loading="lazy" />
+          <span class="project-play"><i class="fa-solid fa-play"></i></span>
+        </a>
+        {{ else if .Params.thumbnail }}
+        <img class="project-thumbnail" src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy" />
+        {{ end }}
+        <div class="project-body">
+          <div class="project-header">
+            <h3 class="project-title">{{ .Title }}</h3>
+            {{ with .Params.award }}<span class="project-award" data-tooltip="{{ . }}"><i class="fa-solid fa-trophy"></i></span>{{ end }}
+          </div>
+          <div class="project-desc-wrap">
+            <p class="project-desc project-desc--clamped">{{ .Params.description }}</p>
+            <button type="button" class="proj-see-more" aria-expanded="false">See more</button>
+          </div>
+          <div class="project-tags-wrap">
+            <ul class="project-tags">
+              {{ range .Params.tags }}<li>{{ . }}</li>{{ end }}
+            </ul>
+            <button type="button" class="proj-tags-more" style="display:none" aria-expanded="false"></button>
+          </div>
+          <div class="project-links">
+            {{ with .Params.repoURL }}<a href="{{ . }}" target="_blank" rel="noopener" class="proj-link-github"><i class="fa-brands fa-github"></i> GitHub</a>{{ end }}
+            {{ with .Params.demoURL }}<a href="{{ . }}" target="_blank" rel="noopener" class="proj-link-visit">Visit</a>{{ end }}
+          </div>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+
+    <div id="projSentinel" class="proj-sentinel"></div>
+    <div id="projLoading" class="proj-loading" style="display:none">
+      <div class="proj-spinner"></div>
+    </div>
+  </div>
+</section>
+{{ end }}
