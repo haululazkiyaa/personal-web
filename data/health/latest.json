@@ -1,0 +1,1032 @@
+{
+  "date": "2026-06-30",
+  "checkedAt": "2026-06-30T08:47:14.515Z",
+  "timezone": "Asia/Jakarta",
+  "baseURL": "https://haululazkiyaa.id/",
+  "summary": {
+    "ok": true,
+    "totalUrls": 78,
+    "reachableUrls": 78,
+    "brokenUrls": 0,
+    "localAssets": 108,
+    "missingLocalAssets": 0,
+    "homepageStatus": 200,
+    "homepageResponseTimeMs": 381,
+    "cvStatus": 200,
+    "cvResponseTimeMs": 376
+  },
+  "checks": {
+    "urls": [
+      {
+        "url": "https://canva.link/sbdbzbmylfdmd4a",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 845
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 97
+      },
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 104
+      },
+      {
+        "url": "https://github.com/haululazkiyaa",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 694
+      },
+      {
+        "url": "https://haululazkiyaa.id/",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 381
+      },
+      {
+        "url": "https://haululazkiyaa.id/files/cv.pdf",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 376
+      },
+      {
+        "url": "https://haululazkiyaa.id/index.json",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 721
+      },
+      {
+        "url": "https://kit.fontawesome.com/d1186bca51.js",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1026
+      },
+      {
+        "url": "https://linkedin.com/in/haululazkiyaa",
+        "ok": true,
+        "status": 999,
+        "responseTimeMs": 2518
+      },
+      {
+        "url": "https://telkomuniversity.ac.id/tel-u-ciptakan-inovasi-besafety-untuk-mengurangi-kecelakaan-lalu-lintas/",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 242
+      },
+      {
+        "url": "https://www.credly.com/badges/01b6c216-dbd8-41ad-af6a-c3ab4dbcdb92/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1572
+      },
+      {
+        "url": "https://www.credly.com/badges/02645cbe-94be-4ff8-bdd2-bf6ca91b5f57/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 847
+      },
+      {
+        "url": "https://www.credly.com/badges/0f2efdd8-515f-439c-ac34-63dc2d8858a1/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1336
+      },
+      {
+        "url": "https://www.credly.com/badges/1058b9e6-e24c-484c-a98e-cae01af94ece/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1463
+      },
+      {
+        "url": "https://www.credly.com/badges/1765b292-577d-42fa-971f-8b885743d8c2/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 825
+      },
+      {
+        "url": "https://www.credly.com/badges/17e74141-7815-4ecc-bf8f-2edad89147eb/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 926
+      },
+      {
+        "url": "https://www.credly.com/badges/1a5a58e9-fedd-4dcd-877c-567cda902c9a/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 813
+      },
+      {
+        "url": "https://www.credly.com/badges/1e78078e-dd89-4005-9ca5-e83f245c4997/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 843
+      },
+      {
+        "url": "https://www.credly.com/badges/331825ba-6a9e-418f-8c3e-44eb60716457/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 824
+      },
+      {
+        "url": "https://www.credly.com/badges/3976a366-bee6-48e5-83d5-fa798754a5d1/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 3576
+      },
+      {
+        "url": "https://www.credly.com/badges/40e4228e-0d80-461c-b157-15e8bf9ea2e5/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 845
+      },
+      {
+        "url": "https://www.credly.com/badges/4445996b-2ad8-4fcb-aedc-49c34a1ad76b/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1045
+      },
+      {
+        "url": "https://www.credly.com/badges/478112b4-f73f-4efe-b053-6398f5ee7907/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 904
+      },
+      {
+        "url": "https://www.credly.com/badges/48736bee-3603-4043-ab98-b21b73cdfb85/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1207
+      },
+      {
+        "url": "https://www.credly.com/badges/53d1cbc5-479a-43dd-b6c4-d5d71e55b914/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1061
+      },
+      {
+        "url": "https://www.credly.com/badges/53dfe0f3-5e6e-4201-aa73-e48a01445cbb/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1081
+      },
+      {
+        "url": "https://www.credly.com/badges/57cd4510-6eb5-4756-8005-b4168ed567aa/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 824
+      },
+      {
+        "url": "https://www.credly.com/badges/68c67072-5407-4dc1-8a4f-f70b93672d35/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1078
+      },
+      {
+        "url": "https://www.credly.com/badges/74ab9005-bbdc-42b7-820f-1430e4637dfe/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 817
+      },
+      {
+        "url": "https://www.credly.com/badges/7d01d1bd-abce-4192-97f8-19b918728481/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 824
+      },
+      {
+        "url": "https://www.credly.com/badges/7d3b22f4-411d-4015-85d4-e164e5efb752/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 833
+      },
+      {
+        "url": "https://www.credly.com/badges/7e00df2e-7ad2-4369-801d-97442dfc991f/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1869
+      },
+      {
+        "url": "https://www.credly.com/badges/7fa23b51-0de8-4aa4-acb3-a1fbb30131ed/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1347
+      },
+      {
+        "url": "https://www.credly.com/badges/8029fbc6-b2c4-47cb-879f-00da70239773/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1341
+      },
+      {
+        "url": "https://www.credly.com/badges/83223f70-adc8-4cb7-a196-23b4c2b2f257/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 850
+      },
+      {
+        "url": "https://www.credly.com/badges/85afe0cc-ac6f-4d5b-bf72-c9295baa6432/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 903
+      },
+      {
+        "url": "https://www.credly.com/badges/87822d5f-73c0-4299-bfef-46488a8a6a6a/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1326
+      },
+      {
+        "url": "https://www.credly.com/badges/8c8491af-a526-4351-8d53-67084dc24244/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1431
+      },
+      {
+        "url": "https://www.credly.com/badges/8d5226c0-0eb1-4ec7-96fd-6bdee217adcf/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1364
+      },
+      {
+        "url": "https://www.credly.com/badges/93cc4d23-68e1-4c7a-b7cd-b425cd228a9e/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1104
+      },
+      {
+        "url": "https://www.credly.com/badges/95c88ad7-22a9-4b7a-aec7-0085b0cbfeb5/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 792
+      },
+      {
+        "url": "https://www.credly.com/badges/9619f1a9-d0f2-4ef9-bf2b-a54e550b68e5/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 841
+      },
+      {
+        "url": "https://www.credly.com/badges/9eb8ed61-3c3c-4cb8-810f-75b60c53d00c/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 827
+      },
+      {
+        "url": "https://www.credly.com/badges/9f20e179-aba8-44c4-9c26-2144acd9161f/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 790
+      },
+      {
+        "url": "https://www.credly.com/badges/a0c5dd17-1b22-454b-85c8-12ce304abf53/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1430
+      },
+      {
+        "url": "https://www.credly.com/badges/a111a0f7-10d0-4714-b82f-2513df3cda91/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 825
+      },
+      {
+        "url": "https://www.credly.com/badges/aa8c037a-2d29-42d7-8114-6a0f667a2f3b/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1487
+      },
+      {
+        "url": "https://www.credly.com/badges/ab12a46c-73bc-4731-bfe1-7c77fb2c6468/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1019
+      },
+      {
+        "url": "https://www.credly.com/badges/aeaddea2-cd48-4aa7-af2d-7b5c4a2a237a/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1520
+      },
+      {
+        "url": "https://www.credly.com/badges/b17a6530-7200-4ede-a6d0-847b14b8f5cb/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1455
+      },
+      {
+        "url": "https://www.credly.com/badges/ba176503-bd24-4650-b1b8-b5a3ae9b0969/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 827
+      },
+      {
+        "url": "https://www.credly.com/badges/bb7f17d8-38ef-49ed-86db-f774ade14715/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 824
+      },
+      {
+        "url": "https://www.credly.com/badges/cafd911e-8bd8-429f-8821-758ce160ff79/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 856
+      },
+      {
+        "url": "https://www.credly.com/badges/cf7afe64-a58c-4c20-ad15-b4cb1f303a82/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 894
+      },
+      {
+        "url": "https://www.credly.com/badges/cfa37f49-6fef-4fa8-89c5-8bd112e7af63/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 827
+      },
+      {
+        "url": "https://www.credly.com/badges/d8d69f73-0006-4fce-b33d-e38e624aad34/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1334
+      },
+      {
+        "url": "https://www.credly.com/badges/dd38e21c-66e2-4e0f-8190-c23d2b2988af/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1111
+      },
+      {
+        "url": "https://www.credly.com/badges/df46a43e-5b77-479a-b28d-479eb9e92e7a/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1325
+      },
+      {
+        "url": "https://www.credly.com/badges/e028a0a5-2e9d-4199-9e54-af220e184ab7/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1106
+      },
+      {
+        "url": "https://www.credly.com/badges/e76e9952-0376-4ae8-b2e9-eae989943d93/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1370
+      },
+      {
+        "url": "https://www.credly.com/badges/ea875042-967c-40c9-826a-432ee31e197b/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1214
+      },
+      {
+        "url": "https://www.credly.com/badges/edfde93e-0131-45f1-8638-e222d288d1ac/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1077
+      },
+      {
+        "url": "https://www.credly.com/badges/f85f9dfb-bc7a-4014-acf1-56147a761fe9/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 925
+      },
+      {
+        "url": "https://www.credly.com/badges/f9471279-f976-4243-9e0c-55c472573c59/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 1116
+      },
+      {
+        "url": "https://www.credly.com/badges/fac70bd0-87da-49d0-9894-d8fa6aaffc8e/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 805
+      },
+      {
+        "url": "https://www.credly.com/badges/faed6988-7196-436b-90fd-079d2ab5c545/public_url",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 808
+      },
+      {
+        "url": "https://www.credly.com/users/haululazkiyaa/badges.json",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 4370
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=46ZephYmZtg",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 782
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=6Pdb6_B4ELo",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 872
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=6_mhUBwh-f0",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 777
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=6zZlXcpZB_A",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 707
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=J9l6opqUvvw",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 717
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=NmTN8DNSERw",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 772
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=cdPJ3CZSMx4",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 807
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=jUffk98lX9I",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 788
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=pq7nzISryXk",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 888
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=qtFh21ZoU24",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 909
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=t6StbYGuQcA",
+        "ok": true,
+        "status": 200,
+        "responseTimeMs": 844
+      }
+    ],
+    "localAssets": [
+      {
+        "path": "/css/main.css",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/files/cv.pdf",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/1.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/10.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/11.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/12.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/13.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/14.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/15.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/16.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/17.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/18.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/19.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/2.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/20.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/21.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/22.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/23.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/24.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/25.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/26.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/27.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/28.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/29.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/3.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/30.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/31.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/32.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/33.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/34.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/35.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/36.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/37.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/38.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/4.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/5.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/6.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/7.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/8.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/achievements/9.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/blog/kafka-diagram.jpg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/blog/kafka.jpg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/blog/microservices.jpg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/blog/postgres.jpg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/blog/terraform.jpg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/aws-aws-educate-introduction-to-cloud-101.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/coursera-google-ai-for-app-building.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/coursera-google-ai-for-brainstorming-and-planning.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/coursera-google-ai-for-content-creation.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/coursera-google-ai-for-data-analysis.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/coursera-google-ai-for-research-and-insights.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/coursera-google-ai-for-writing-and-communicating.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/coursera-google-ai-fundamentals.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/coursera-google-ai-professional-certificate.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-analyze-bigquery-data-in-connected-sheets.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-analyze-speech-and-language-with-google.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-app-building-with-appsheet.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-app-engine-3-ways.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-build-a-secure-google-cloud-network.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-build-infrastructure-with-terraform-on-google.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-build-lookml-objects-in-looker.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-build-real-world-ai-applications-with.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-cloud-functions-3-ways.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-cloud-speech-api-3-ways.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-configure-service-accounts-and-iam-roles.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-create-a-secure-data-lake-on.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-create-a-streaming-data-lake-on.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-create-and-manage-alloydb-instances.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-create-and-manage-bigtable-instances.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-create-and-manage-cloud-spanner-instances.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-deploy-kubernetes-applications-on-google-cloud.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-develop-serverless-apps-with-firebase.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-develop-with-apps-script-and-appsheet.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-develop-your-google-cloud-network.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-enrich-metadata-and-discovery-of-biglake.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-get-started-with-api-gateway.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-get-started-with-cloud-storage.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-get-started-with-dataplex.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-get-started-with-google-workspace-tools.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-get-started-with-looker.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-get-started-with-pub-sub.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-implement-load-balancing-on-compute-engine.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-manage-data-models-in-looker.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-manage-kubernetes-in-google-cloud.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-monitor-and-log-with-google-cloud.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-monitor-and-manage-google-cloud-resources.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-monitoring-in-google-cloud.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-optimize-costs-for-google-kubernetes-engine.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-secure-biglake-data.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-set-up-a-google-cloud-network.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-set-up-an-app-dev-environment.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-store-process-and-manage-data-on-2.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-store-process-and-manage-data-on.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-streaming-analytics-into-bigquery.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-the-basics-of-google-cloud-compute.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-use-apis-to-work-with-cloud.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-use-functions-formulas-and-charts-in.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-use-machine-learning-apis-on-google.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/gcp-using-the-google-cloud-speech-api.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/unity-unity-essentials.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/certs/unity-unity-junior-programmer.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/humic.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/mchub.jpeg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/mypict.jpg",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/profile.gif",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/puti.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/images/telkom-university.png",
+        "ok": true,
+        "source": "static"
+      },
+      {
+        "path": "/js/main.js",
+        "ok": true,
+        "source": "static"
+      }
+    ]
+  }
+}

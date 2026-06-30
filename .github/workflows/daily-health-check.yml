@@ -1,0 +1,41 @@
+name: Daily Health Check
+
+on:
+  schedule:
+    # 07:00 WIB every day.
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run daily health check
+        run: node scripts/daily-health-check.js
+
+      - name: Commit health report
+        run: |
+          git config user.name "Muhammad Haulul Azkiyaa"
+          git config user.email "haululazkiya@gmail.com"
+
+          git add data/health/latest.json data/health/history
+
+          if git diff --cached --quiet; then
+            echo "No health report changes."
+            exit 0
+          fi
+
+          git commit -m "Add daily health check report"
+          git push
