@@ -1,0 +1,41 @@
+name: Sync Credly Badges
+
+on:
+  schedule:
+    # 06:30 WIB every day.
+    - cron: "30 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-credly:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Sync Credly badges
+        run: node scripts/sync-credly.js
+
+      - name: Commit Credly updates
+        run: |
+          git config user.name "Muhammad Haulul Azkiyaa"
+          git config user.email "haululazkiya@gmail.com"
+
+          git add data/about.yaml data/credly/latest-sync.json static/images/certs
+
+          if git diff --cached --quiet; then
+            echo "No Credly updates."
+            exit 0
+          fi
+
+          git commit -m "Sync Credly badges"
+          git push
