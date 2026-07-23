@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-22",
-  "checkedAt": "2026-07-22T02:43:27.103Z",
+  "date": "2026-07-23",
+  "checkedAt": "2026-07-23T02:49:21.925Z",
   "timezone": "Asia/Jakarta",
   "baseURL": "https://haululazkiyaa.id/",
   "summary": {
@@ -11,9 +11,9 @@
     "localAssets": 108,
     "missingLocalAssets": 0,
     "homepageStatus": 200,
-    "homepageResponseTimeMs": 434,
+    "homepageResponseTimeMs": 279,
     "cvStatus": 200,
-    "cvResponseTimeMs": 483
+    "cvResponseTimeMs": 304
   },
   "checks": {
     "urls": [
@@ -21,469 +21,469 @@
         "url": "https://canva.link/sbdbzbmylfdmd4a",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 844
+        "responseTimeMs": 808
       },
       {
         "url": "https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 103
+        "responseTimeMs": 112
       },
       {
         "url": "https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 106
+        "responseTimeMs": 116
       },
       {
         "url": "https://github.com/haululazkiyaa",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 630
+        "responseTimeMs": 489
       },
       {
         "url": "https://haululazkiyaa.id/",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 434
+        "responseTimeMs": 279
       },
       {
         "url": "https://haululazkiyaa.id/files/cv.pdf",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 483
+        "responseTimeMs": 304
       },
       {
         "url": "https://haululazkiyaa.id/index.json",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 515
+        "responseTimeMs": 194
       },
       {
         "url": "https://kit.fontawesome.com/d1186bca51.js",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 181
+        "responseTimeMs": 72
       },
       {
         "url": "https://linkedin.com/in/haululazkiyaa",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 115
+        "responseTimeMs": 252
       },
       {
         "url": "https://telkomuniversity.ac.id/tel-u-ciptakan-inovasi-besafety-untuk-mengurangi-kecelakaan-lalu-lintas/",
         "ok": true,
-        "status": 200,
-        "responseTimeMs": 690
+        "status": 403,
+        "responseTimeMs": 2184
       },
       {
         "url": "https://www.credly.com/badges/01b6c216-dbd8-41ad-af6a-c3ab4dbcdb92/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 444
+        "responseTimeMs": 293
       },
       {
         "url": "https://www.credly.com/badges/02645cbe-94be-4ff8-bdd2-bf6ca91b5f57/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 384
+        "responseTimeMs": 241
       },
       {
         "url": "https://www.credly.com/badges/0f2efdd8-515f-439c-ac34-63dc2d8858a1/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 376
+        "responseTimeMs": 979
       },
       {
         "url": "https://www.credly.com/badges/1058b9e6-e24c-484c-a98e-cae01af94ece/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 332
+        "responseTimeMs": 299
       },
       {
         "url": "https://www.credly.com/badges/1765b292-577d-42fa-971f-8b885743d8c2/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 409
+        "responseTimeMs": 167
       },
       {
         "url": "https://www.credly.com/badges/17e74141-7815-4ecc-bf8f-2edad89147eb/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 358
+        "responseTimeMs": 318
       },
       {
         "url": "https://www.credly.com/badges/1a5a58e9-fedd-4dcd-877c-567cda902c9a/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 578
+        "responseTimeMs": 281
       },
       {
         "url": "https://www.credly.com/badges/1e78078e-dd89-4005-9ca5-e83f245c4997/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 311
+        "responseTimeMs": 242
       },
       {
         "url": "https://www.credly.com/badges/331825ba-6a9e-418f-8c3e-44eb60716457/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 407
+        "responseTimeMs": 164
       },
       {
         "url": "https://www.credly.com/badges/3976a366-bee6-48e5-83d5-fa798754a5d1/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 704
+        "responseTimeMs": 147
       },
       {
         "url": "https://www.credly.com/badges/40e4228e-0d80-461c-b157-15e8bf9ea2e5/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 258
+        "responseTimeMs": 201
       },
       {
         "url": "https://www.credly.com/badges/4445996b-2ad8-4fcb-aedc-49c34a1ad76b/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 260
+        "responseTimeMs": 186
       },
       {
         "url": "https://www.credly.com/badges/478112b4-f73f-4efe-b053-6398f5ee7907/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 232
+        "responseTimeMs": 210
       },
       {
         "url": "https://www.credly.com/badges/48736bee-3603-4043-ab98-b21b73cdfb85/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 335
+        "responseTimeMs": 194
       },
       {
         "url": "https://www.credly.com/badges/53d1cbc5-479a-43dd-b6c4-d5d71e55b914/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 389
+        "responseTimeMs": 175
       },
       {
         "url": "https://www.credly.com/badges/53dfe0f3-5e6e-4201-aa73-e48a01445cbb/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 240
+        "responseTimeMs": 159
       },
       {
         "url": "https://www.credly.com/badges/57cd4510-6eb5-4756-8005-b4168ed567aa/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 255
+        "responseTimeMs": 1704
       },
       {
         "url": "https://www.credly.com/badges/68c67072-5407-4dc1-8a4f-f70b93672d35/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 264
+        "responseTimeMs": 240
       },
       {
         "url": "https://www.credly.com/badges/74ab9005-bbdc-42b7-820f-1430e4637dfe/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 292
+        "responseTimeMs": 225
       },
       {
         "url": "https://www.credly.com/badges/7d01d1bd-abce-4192-97f8-19b918728481/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 308
+        "responseTimeMs": 174
       },
       {
         "url": "https://www.credly.com/badges/7d3b22f4-411d-4015-85d4-e164e5efb752/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 285
+        "responseTimeMs": 140
       },
       {
         "url": "https://www.credly.com/badges/7e00df2e-7ad2-4369-801d-97442dfc991f/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 282
+        "responseTimeMs": 140
       },
       {
         "url": "https://www.credly.com/badges/7fa23b51-0de8-4aa4-acb3-a1fbb30131ed/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 221
+        "responseTimeMs": 144
       },
       {
         "url": "https://www.credly.com/badges/8029fbc6-b2c4-47cb-879f-00da70239773/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 304
+        "responseTimeMs": 135
       },
       {
         "url": "https://www.credly.com/badges/83223f70-adc8-4cb7-a196-23b4c2b2f257/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 260
+        "responseTimeMs": 306
       },
       {
         "url": "https://www.credly.com/badges/85afe0cc-ac6f-4d5b-bf72-c9295baa6432/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 249
+        "responseTimeMs": 156
       },
       {
         "url": "https://www.credly.com/badges/87822d5f-73c0-4299-bfef-46488a8a6a6a/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 213
+        "responseTimeMs": 237
       },
       {
         "url": "https://www.credly.com/badges/8c8491af-a526-4351-8d53-67084dc24244/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 258
+        "responseTimeMs": 248
       },
       {
         "url": "https://www.credly.com/badges/8d5226c0-0eb1-4ec7-96fd-6bdee217adcf/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 310
+        "responseTimeMs": 169
       },
       {
         "url": "https://www.credly.com/badges/93cc4d23-68e1-4c7a-b7cd-b425cd228a9e/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 852
+        "responseTimeMs": 253
       },
       {
         "url": "https://www.credly.com/badges/95c88ad7-22a9-4b7a-aec7-0085b0cbfeb5/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 326
+        "responseTimeMs": 268
       },
       {
         "url": "https://www.credly.com/badges/9619f1a9-d0f2-4ef9-bf2b-a54e550b68e5/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 272
+        "responseTimeMs": 198
       },
       {
         "url": "https://www.credly.com/badges/9eb8ed61-3c3c-4cb8-810f-75b60c53d00c/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 217
+        "responseTimeMs": 160
       },
       {
         "url": "https://www.credly.com/badges/9f20e179-aba8-44c4-9c26-2144acd9161f/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 276
+        "responseTimeMs": 250
       },
       {
         "url": "https://www.credly.com/badges/a0c5dd17-1b22-454b-85c8-12ce304abf53/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 227
+        "responseTimeMs": 153
       },
       {
         "url": "https://www.credly.com/badges/a111a0f7-10d0-4714-b82f-2513df3cda91/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 513
+        "responseTimeMs": 147
       },
       {
         "url": "https://www.credly.com/badges/aa8c037a-2d29-42d7-8114-6a0f667a2f3b/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 475
+        "responseTimeMs": 151
       },
       {
         "url": "https://www.credly.com/badges/ab12a46c-73bc-4731-bfe1-7c77fb2c6468/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 236
+        "responseTimeMs": 142
       },
       {
         "url": "https://www.credly.com/badges/aeaddea2-cd48-4aa7-af2d-7b5c4a2a237a/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 260
+        "responseTimeMs": 137
       },
       {
         "url": "https://www.credly.com/badges/b17a6530-7200-4ede-a6d0-847b14b8f5cb/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 562
+        "responseTimeMs": 138
       },
       {
         "url": "https://www.credly.com/badges/ba176503-bd24-4650-b1b8-b5a3ae9b0969/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 311
+        "responseTimeMs": 1371
       },
       {
         "url": "https://www.credly.com/badges/bb7f17d8-38ef-49ed-86db-f774ade14715/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 280
+        "responseTimeMs": 139
       },
       {
         "url": "https://www.credly.com/badges/cafd911e-8bd8-429f-8821-758ce160ff79/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 490
+        "responseTimeMs": 154
       },
       {
         "url": "https://www.credly.com/badges/cf7afe64-a58c-4c20-ad15-b4cb1f303a82/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 297
+        "responseTimeMs": 190
       },
       {
         "url": "https://www.credly.com/badges/cfa37f49-6fef-4fa8-89c5-8bd112e7af63/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 285
+        "responseTimeMs": 172
       },
       {
         "url": "https://www.credly.com/badges/d8d69f73-0006-4fce-b33d-e38e624aad34/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 258
+        "responseTimeMs": 179
       },
       {
         "url": "https://www.credly.com/badges/dd38e21c-66e2-4e0f-8190-c23d2b2988af/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 230
+        "responseTimeMs": 171
       },
       {
         "url": "https://www.credly.com/badges/df46a43e-5b77-479a-b28d-479eb9e92e7a/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 229
+        "responseTimeMs": 152
       },
       {
         "url": "https://www.credly.com/badges/e028a0a5-2e9d-4199-9e54-af220e184ab7/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 313
+        "responseTimeMs": 200
       },
       {
         "url": "https://www.credly.com/badges/e76e9952-0376-4ae8-b2e9-eae989943d93/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 437
+        "responseTimeMs": 169
       },
       {
         "url": "https://www.credly.com/badges/ea875042-967c-40c9-826a-432ee31e197b/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 325
+        "responseTimeMs": 153
       },
       {
         "url": "https://www.credly.com/badges/edfde93e-0131-45f1-8638-e222d288d1ac/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 221
+        "responseTimeMs": 165
       },
       {
         "url": "https://www.credly.com/badges/f85f9dfb-bc7a-4014-acf1-56147a761fe9/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 294
+        "responseTimeMs": 375
       },
       {
         "url": "https://www.credly.com/badges/f9471279-f976-4243-9e0c-55c472573c59/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 264
+        "responseTimeMs": 168
       },
       {
         "url": "https://www.credly.com/badges/fac70bd0-87da-49d0-9894-d8fa6aaffc8e/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 282
+        "responseTimeMs": 166
       },
       {
         "url": "https://www.credly.com/badges/faed6988-7196-436b-90fd-079d2ab5c545/public_url",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 228
+        "responseTimeMs": 172
       },
       {
         "url": "https://www.credly.com/users/haululazkiyaa/badges.json",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 5276
+        "responseTimeMs": 3924
       },
       {
         "url": "https://www.youtube.com/watch?v=46ZephYmZtg",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 640
+        "responseTimeMs": 499
       },
       {
         "url": "https://www.youtube.com/watch?v=6Pdb6_B4ELo",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 793
+        "responseTimeMs": 521
       },
       {
         "url": "https://www.youtube.com/watch?v=6_mhUBwh-f0",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 617
+        "responseTimeMs": 559
       },
       {
         "url": "https://www.youtube.com/watch?v=6zZlXcpZB_A",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 714
+        "responseTimeMs": 638
       },
       {
         "url": "https://www.youtube.com/watch?v=J9l6opqUvvw",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 706
+        "responseTimeMs": 704
       },
       {
         "url": "https://www.youtube.com/watch?v=NmTN8DNSERw",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 856
+        "responseTimeMs": 646
       },
       {
         "url": "https://www.youtube.com/watch?v=cdPJ3CZSMx4",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 625
+        "responseTimeMs": 659
       },
       {
         "url": "https://www.youtube.com/watch?v=jUffk98lX9I",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 645
+        "responseTimeMs": 627
       },
       {
         "url": "https://www.youtube.com/watch?v=pq7nzISryXk",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 842
+        "responseTimeMs": 625
       },
       {
         "url": "https://www.youtube.com/watch?v=qtFh21ZoU24",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 572
+        "responseTimeMs": 591
       },
       {
         "url": "https://www.youtube.com/watch?v=t6StbYGuQcA",
         "ok": true,
         "status": 200,
-        "responseTimeMs": 662
+        "responseTimeMs": 508
       }
     ],
     "localAssets": [
