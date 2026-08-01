@@ -180,12 +180,6 @@ certifications:
     badge: "/images/certs/gcp-build-lookml-objects-in-looker.png"
     url: "https://www.credly.com/badges/edfde93e-0131-45f1-8638-e222d288d1ac/public_url"
 
-  - name: "Cloud Speech API: 3 Ways"
-    issuer: "Google Cloud"
-    year: 2025
-    badge: "/images/certs/gcp-cloud-speech-api-3-ways.png"
-    url: "https://www.credly.com/badges/cf7afe64-a58c-4c20-ad15-b4cb1f303a82/public_url"
-
   - name: "Create a Secure Data Lake on Cloud Storage"
     issuer: "Google Cloud"
     year: 2025
@@ -197,6 +191,12 @@ certifications:
     year: 2025
     badge: "/images/certs/gcp-get-started-with-google-workspace-tools.png"
     url: "https://www.credly.com/badges/1765b292-577d-42fa-971f-8b885743d8c2/public_url"
+
+  - name: "Cloud Speech API: 3 Ways"
+    issuer: "Google Cloud"
+    year: 2025
+    badge: "/images/certs/gcp-cloud-speech-api-3-ways.png"
+    url: "https://www.credly.com/badges/cf7afe64-a58c-4c20-ad15-b4cb1f303a82/public_url"
 
   - name: "Use Functions, Formulas, and Charts in Google Sheets"
     issuer: "Google Cloud"
