@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-31",
+  "checkedAt": "2026-08-31T04:11:34.288Z",
+  "timezone": "Asia/Jakarta",
+  "baseURL": "https://haululazkiyaa.id/",
+  "summary": {
+    "ok": false,
+    "totalUrls": 78,
+    "reachableUrls": 77,
+    "brokenUrls": 1,
+    "localAssets": 108,
+    "missingLocalAssets": 0,
+    "homepageStatus": 200,
+    "homepageResponseTimeMs": 432,
+    "cvStatus": 200,
+    "cvResponseTimeMs": 370
+  },
+  "unhealthy": {
+    "urls": [
+      {
+        "url": "https://www.credly.com/badges/9f20e179-aba8-44c4-9c26-2144acd9161f/public_url",
+        "ok": false,
+        "status": null,
+        "responseTimeMs": 12001,
+        "error": "This operation was aborted"
+      }
+    ],
+    "localAssets": []
+  }
+}
