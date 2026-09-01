@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-01",
+  "checkedAt": "2026-09-01T03:58:34.176Z",
+  "timezone": "Asia/Jakarta",
+  "baseURL": "https://haululazkiyaa.id/",
+  "summary": {
+    "ok": false,
+    "totalUrls": 78,
+    "reachableUrls": 75,
+    "brokenUrls": 3,
+    "localAssets": 108,
+    "missingLocalAssets": 0,
+    "homepageStatus": null,
+    "homepageResponseTimeMs": 584,
+    "cvStatus": null,
+    "cvResponseTimeMs": 572
+  },
+  "unhealthy": {
+    "urls": [
+      {
+        "url": "https://haululazkiyaa.id/",
+        "ok": false,
+        "status": null,
+        "responseTimeMs": 584,
+        "error": "fetch failed"
+      },
+      {
+        "url": "https://haululazkiyaa.id/files/cv.pdf",
+        "ok": false,
+        "status": null,
+        "responseTimeMs": 572,
+        "error": "fetch failed"
+      },
+      {
+        "url": "https://haululazkiyaa.id/index.json",
+        "ok": false,
+        "status": null,
+        "responseTimeMs": 781,
+        "error": "fetch failed"
+      }
+    ],
+    "localAssets": []
+  }
+}
