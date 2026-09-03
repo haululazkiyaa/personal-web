@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-03",
+  "checkedAt": "2026-09-03T03:21:16.213Z",
+  "timezone": "Asia/Jakarta",
+  "baseURL": "https://haululazkiyaa.id/",
+  "summary": {
+    "ok": false,
+    "totalUrls": 78,
+    "reachableUrls": 77,
+    "brokenUrls": 1,
+    "localAssets": 108,
+    "missingLocalAssets": 0,
+    "homepageStatus": 200,
+    "homepageResponseTimeMs": 2392,
+    "cvStatus": 200,
+    "cvResponseTimeMs": 2378
+  },
+  "unhealthy": {
+    "urls": [
+      {
+        "url": "https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js",
+        "ok": false,
+        "status": null,
+        "responseTimeMs": 511,
+        "error": "fetch failed"
+      }
+    ],
+    "localAssets": []
+  }
+}
