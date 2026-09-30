@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-30",
+  "checkedAt": "2026-09-30T04:25:03.057Z",
+  "timezone": "Asia/Jakarta",
+  "baseURL": "https://haululazkiyaa.id/",
+  "summary": {
+    "ok": true,
+    "totalUrls": 78,
+    "reachableUrls": 78,
+    "brokenUrls": 0,
+    "localAssets": 108,
+    "missingLocalAssets": 0,
+    "homepageStatus": 200,
+    "homepageResponseTimeMs": 285,
+    "cvStatus": 200,
+    "cvResponseTimeMs": 435
+  },
+  "unhealthy": {
+    "urls": [],
+    "localAssets": []
+  }
+}
