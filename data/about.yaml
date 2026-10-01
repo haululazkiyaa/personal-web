@@ -30,6 +30,12 @@ skills:
     icon: "fa-brands fa-laravel"
 
 certifications:
+  - name: "AWS re/Start Graduate"
+    issuer: "Amazon Web Services Training and Certification"
+    year: 2026
+    badge: "/images/certs/aws-aws-re-start-graduate.png"
+    url: "https://www.credly.com/badges/57e8b326-ce4f-48c2-8aa9-e12a8abdc062/public_url"
+
   - name: "Google AI for App Building"
     issuer: "Coursera"
     year: 2026
