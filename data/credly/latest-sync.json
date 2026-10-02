@@ -1,19 +1,11 @@
 {
-  "date": "2026-10-01",
-  "checkedAt": "2026-10-01T02:18:42.359Z",
+  "date": "2026-10-02",
+  "checkedAt": "2026-10-02T02:28:43.487Z",
   "username": "haululazkiyaa",
   "totalBadges": 57,
-  "previousBadges": 56,
-  "newBadges": [
-    {
-      "id": "57e8b326-ce4f-48c2-8aa9-e12a8abdc062",
-      "name": "AWS re/Start Graduate",
-      "issuer": "Amazon Web Services Training and Certification",
-      "issuedAt": "2026-09-30",
-      "url": "https://www.credly.com/badges/57e8b326-ce4f-48c2-8aa9-e12a8abdc062/public_url"
-    }
-  ],
-  "downloadedImages": 1,
+  "previousBadges": 57,
+  "newBadges": [],
+  "downloadedImages": 0,
   "skippedImages": 0,
   "failedImages": []
 }
