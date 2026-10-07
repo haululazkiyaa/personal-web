@@ -30,11 +30,23 @@ skills:
     icon: "fa-brands fa-laravel"
 
 certifications:
+  - name: "AWS Certified AI Practitioner"
+    issuer: "Amazon Web Services Training and Certification"
+    year: 2026
+    badge: "/images/certs/aws-aws-certified-ai-practitioner.png"
+    url: "https://www.credly.com/badges/27c49315-11e0-4419-ad83-496a05fced82/public_url"
+
   - name: "AWS re/Start Graduate"
     issuer: "Amazon Web Services Training and Certification"
     year: 2026
     badge: "/images/certs/aws-aws-re-start-graduate.png"
     url: "https://www.credly.com/badges/57e8b326-ce4f-48c2-8aa9-e12a8abdc062/public_url"
+
+  - name: "Google AI Professional Certificate"
+    issuer: "Coursera"
+    year: 2026
+    badge: "/images/certs/coursera-google-ai-professional-certificate.png"
+    url: "https://www.credly.com/badges/53d1cbc5-479a-43dd-b6c4-d5d71e55b914/public_url"
 
   - name: "Google AI for App Building"
     issuer: "Coursera"
@@ -47,12 +59,6 @@ certifications:
     year: 2026
     badge: "/images/certs/coursera-google-ai-for-data-analysis.png"
     url: "https://www.credly.com/badges/f85f9dfb-bc7a-4014-acf1-56147a761fe9/public_url"
-
-  - name: "Google AI Professional Certificate"
-    issuer: "Coursera"
-    year: 2026
-    badge: "/images/certs/coursera-google-ai-professional-certificate.png"
-    url: "https://www.credly.com/badges/53d1cbc5-479a-43dd-b6c4-d5d71e55b914/public_url"
 
   - name: "Google AI for Brainstorming and Planning"
     issuer: "Coursera"
