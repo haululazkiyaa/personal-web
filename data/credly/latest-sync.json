@@ -1,19 +1,11 @@
 {
-  "date": "2026-10-07",
-  "checkedAt": "2026-10-07T02:37:16.253Z",
+  "date": "2026-10-08",
+  "checkedAt": "2026-10-08T02:50:32.598Z",
   "username": "haululazkiyaa",
   "totalBadges": 58,
-  "previousBadges": 57,
-  "newBadges": [
-    {
-      "id": "27c49315-11e0-4419-ad83-496a05fced82",
-      "name": "AWS Certified AI Practitioner",
-      "issuer": "Amazon Web Services Training and Certification",
-      "issuedAt": "2026-10-06",
-      "url": "https://www.credly.com/badges/27c49315-11e0-4419-ad83-496a05fced82/public_url"
-    }
-  ],
-  "downloadedImages": 1,
+  "previousBadges": 58,
+  "newBadges": [],
+  "downloadedImages": 0,
   "skippedImages": 0,
   "failedImages": []
 }
