@@ -30,6 +30,12 @@ skills:
     icon: "fa-brands fa-laravel"
 
 certifications:
+  - name: "MongoDB Overview: Core Concepts and Architecture"
+    issuer: "MongoDB"
+    year: 2026
+    badge: "/images/certs/mongodb-mongodb-overview-core-concepts-and-architecture.png"
+    url: "https://www.credly.com/badges/43d0b984-a9d2-4265-836e-5d68a74fdfdb/public_url"
+
   - name: "AWS Certified AI Practitioner"
     issuer: "Amazon Web Services Training and Certification"
     year: 2026
