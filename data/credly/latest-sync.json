@@ -1,19 +1,11 @@
 {
-  "date": "2026-10-13",
-  "checkedAt": "2026-10-13T03:45:06.776Z",
+  "date": "2026-10-14",
+  "checkedAt": "2026-10-14T02:04:57.464Z",
   "username": "haululazkiyaa",
   "totalBadges": 59,
-  "previousBadges": 58,
-  "newBadges": [
-    {
-      "id": "43d0b984-a9d2-4265-836e-5d68a74fdfdb",
-      "name": "MongoDB Overview: Core Concepts and Architecture",
-      "issuer": "MongoDB",
-      "issuedAt": "2026-10-12",
-      "url": "https://www.credly.com/badges/43d0b984-a9d2-4265-836e-5d68a74fdfdb/public_url"
-    }
-  ],
-  "downloadedImages": 1,
+  "previousBadges": 59,
+  "newBadges": [],
+  "downloadedImages": 0,
   "skippedImages": 0,
   "failedImages": []
 }
