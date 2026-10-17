@@ -1,11 +1,19 @@
 {
-  "date": "2026-10-16",
-  "checkedAt": "2026-10-16T01:34:47.804Z",
+  "date": "2026-10-17",
+  "checkedAt": "2026-10-17T01:26:24.386Z",
   "username": "haululazkiyaa",
-  "totalBadges": 59,
+  "totalBadges": 60,
   "previousBadges": 59,
-  "newBadges": [],
-  "downloadedImages": 0,
+  "newBadges": [
+    {
+      "id": "28c6ceb5-e218-46ef-91f8-869688056f20",
+      "name": "AWS Educate Introduction to Generative AI",
+      "issuer": "Amazon Web Services Training and Certification",
+      "issuedAt": "2026-10-16",
+      "url": "https://www.credly.com/badges/28c6ceb5-e218-46ef-91f8-869688056f20/public_url"
+    }
+  ],
+  "downloadedImages": 1,
   "skippedImages": 0,
   "failedImages": []
 }

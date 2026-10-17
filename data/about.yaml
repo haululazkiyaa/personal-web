@@ -30,6 +30,12 @@ skills:
     icon: "fa-brands fa-laravel"
 
 certifications:
+  - name: "AWS Educate Introduction to Generative AI"
+    issuer: "Amazon Web Services Training and Certification"
+    year: 2026
+    badge: "/images/certs/aws-aws-educate-introduction-to-generative-ai.png"
+    url: "https://www.credly.com/badges/28c6ceb5-e218-46ef-91f8-869688056f20/public_url"
+
   - name: "MongoDB Overview: Core Concepts and Architecture"
     issuer: "MongoDB"
     year: 2026
