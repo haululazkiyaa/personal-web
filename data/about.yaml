@@ -30,6 +30,12 @@ skills:
     icon: "fa-brands fa-laravel"
 
 certifications:
+  - name: "AWS Certified Cloud Practitioner"
+    issuer: "Amazon Web Services Training and Certification"
+    year: 2026
+    badge: "/images/certs/aws-aws-certified-cloud-practitioner.png"
+    url: "https://www.credly.com/badges/2edbf336-1928-4393-85c3-e1b8dfad6e57/public_url"
+
   - name: "AWS Educate Introduction to Generative AI"
     issuer: "Amazon Web Services Training and Certification"
     year: 2026
