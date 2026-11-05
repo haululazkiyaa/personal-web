@@ -1,19 +1,11 @@
 {
-  "date": "2026-11-04",
-  "checkedAt": "2026-11-04T03:06:47.282Z",
+  "date": "2026-11-05",
+  "checkedAt": "2026-11-05T03:38:27.028Z",
   "username": "haululazkiyaa",
   "totalBadges": 61,
-  "previousBadges": 60,
-  "newBadges": [
-    {
-      "id": "2edbf336-1928-4393-85c3-e1b8dfad6e57",
-      "name": "AWS Certified Cloud Practitioner",
-      "issuer": "Amazon Web Services Training and Certification",
-      "issuedAt": "2026-11-03",
-      "url": "https://www.credly.com/badges/2edbf336-1928-4393-85c3-e1b8dfad6e57/public_url"
-    }
-  ],
-  "downloadedImages": 1,
+  "previousBadges": 61,
+  "newBadges": [],
+  "downloadedImages": 0,
   "skippedImages": 0,
   "failedImages": []
 }
